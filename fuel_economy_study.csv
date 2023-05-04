@@ -1,0 +1,1140 @@
+,year,make,model,VClass,cylinders,displ,2D PassVol,2D LuggVol,4D PassVol,4D LuggVol,HatchPassVol,HatchLuggVol,drive,CombCityHwy MPG,CombCHW_Cost100miles,AggCombMPG,AggCombCHW_Cost100miles,HW mpg@55,HW@55_Cost100miles,HW mpg@65,HW@65_Cost100miles,HW mpg@75,HW@75_Cost100miles,HW mpg@85,HW@85_Cost100miles,HW mpg@95,HW mpg@105
+38567,2023,Land Rover,Defender 90,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+38571,2023,Kia,Sportage FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38572,2023,Kia,Sportage AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38573,2023,Land Rover,Discovery,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+38574,2023,Land Rover,Discovery MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38575,2023,Land Rover,Defender 110,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+38576,2023,Land Rover,Defender 110 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38577,2023,Land Rover,Defender 90 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38578,2023,Land Rover,Defender 90,Standard Sport Utility Vehicle 4WD,8.0,5.0,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+38579,2023,Land Rover,Defender 110,Standard Sport Utility Vehicle 4WD,8.0,5.0,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+38632,2023,Land Rover,Range Rover Evoque,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38633,2023,Land Rover,Discovery Sport,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38664,2023,Genesis,G70 AWD,Compact Cars,6.0,3.3,0,0,94,10,0,0,All-Wheel Drive,20,20.0,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38665,2023,Genesis,G70 RWD,Compact Cars,6.0,3.3,0,0,94,10,0,0,Rear-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38666,2023,Genesis,G70 RWD,Compact Cars,4.0,2.0,0,0,94,10,0,0,Rear-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38667,2023,Land Rover,Range Rover Evoque MHEV,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38683,2023,Genesis,G70 AWD,Compact Cars,4.0,2.0,0,0,94,10,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38684,2023,Honda,Odyssey,Minivan - 2WD,6.0,3.5,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38685,2023,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,104,29,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38686,2023,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,104,29,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38687,2023,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,6.0,3.5,0,0,104,29,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38688,2023,Kia,Sportage Hybrid AWD,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,38,10.53,30,13.33,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38689,2023,Kia,Sportage Hybrid FWD,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,Front-Wheel Drive,43,9.3,34,11.76,44,9.09,39,10.26,34,11.76,29,13.79,25,21
+38690,2023,Genesis,GV80 AWD,Standard Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38692,2023,Genesis,GV80 AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38704,2023,MINI,Cooper Convertible,Minicompact Cars,3.0,1.5,76,5,0,0,0,0,Front-Wheel Drive,32,12.5,25,16.0,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38705,2023,MINI,Cooper Convertible,Minicompact Cars,3.0,1.5,76,5,0,0,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38706,2023,BMW,M850i xDrive Coupe,Subcompact Cars,8.0,4.4,81,15,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38707,2023,BMW,M850i xDrive Convertible,Subcompact Cars,8.0,4.4,81,12,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38708,2023,BMW,M8 Competition Coupe,Subcompact Cars,8.0,4.4,81,15,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+38709,2023,BMW,M8 Competition Convertible,Subcompact Cars,8.0,4.4,81,12,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+38710,2023,MINI,Cooper Hardtop 2 door,Subcompact Cars,3.0,1.5,0,0,0,0,80,9,Front-Wheel Drive,32,12.5,25,16.0,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38711,2023,MINI,Cooper Hardtop 2 door,Subcompact Cars,3.0,1.5,0,0,0,0,80,9,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38712,2023,MINI,Cooper Hardtop 4 door,Subcompact Cars,3.0,1.5,0,0,0,0,84,9,Front-Wheel Drive,32,12.5,25,16.0,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38714,2023,MINI,Cooper Hardtop 4 door,Subcompact Cars,3.0,1.5,0,0,0,0,84,9,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38715,2023,BMW,X2 M35i,Midsize Cars,4.0,2.0,0,0,0,0,94,21,All-Wheel Drive,27,14.81,21,19.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38716,2023,BMW,M850i xDrive Gran Coupe,Midsize Cars,8.0,4.4,0,0,100,16,0,0,All-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38717,2023,BMW,Alpina B8 Gran Coupe,Midsize Cars,8.0,4.4,0,0,100,16,0,0,All-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38718,2023,BMW,M8 Competition Gran Coupe,Midsize Cars,8.0,4.4,0,0,100,11,0,0,All-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+38719,2023,Kia,Stinger AWD,Midsize Cars,4.0,2.5,0,0,95,23,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38720,2023,Kia,Stinger RWD,Midsize Cars,4.0,2.5,0,0,95,23,0,0,Rear-Wheel Drive,25,16.0,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38721,2023,Kia,Stinger AWD,Midsize Cars,6.0,3.3,0,0,95,23,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38722,2023,Kia,Stinger RWD,Midsize Cars,6.0,3.3,0,0,95,23,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38723,2023,MINI,Cooper Countryman,Midsize Cars,3.0,1.5,0,0,0,0,97,18,Front-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38725,2023,MINI,Cooper Countryman All4,Midsize Cars,3.0,1.5,0,0,0,0,97,18,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38726,2023,MINI,John Cooper Works Clubman All4,Midsize Cars,4.0,2.0,0,0,0,0,92,18,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38727,2023,MINI,JCW Countryman All4,Midsize Cars,4.0,2.0,0,0,0,0,97,18,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38728,2023,Genesis,G90 AWD,Large Cars,6.0,3.5,0,0,109,11,0,0,All-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38729,2023,Kia,Seltos FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,31,12.9,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38730,2023,Mitsubishi,Eclipse Cross 2WD,Small Sport Utility Vehicle 2WD,4.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38731,2023,Mitsubishi,Eclipse Cross ES 2WD,Small Sport Utility Vehicle 2WD,4.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38732,2023,Jaguar,E-Pace,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38733,2023,Kia,Seltos AWD,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38734,2023,Kia,Seltos AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,29,13.79,23,17.39,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38736,2023,Mazda,CX-50 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,27,14.81,21,19.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38737,2023,Mazda,CX-50 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38738,2023,Mitsubishi,Eclipse Cross 4WD,Small Sport Utility Vehicle 4WD,4.0,1.5,0,0,0,0,0,0,4-Wheel Drive,25,16.0,20,20.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38739,2023,Mitsubishi,Eclipse Cross ES 4WD,Small Sport Utility Vehicle 4WD,4.0,1.5,0,0,0,0,0,0,4-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38747,2023,MINI,Cooper S Convertible,Minicompact Cars,4.0,2.0,76,5,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38748,2023,MINI,Cooper S Convertible,Minicompact Cars,4.0,2.0,76,5,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38749,2023,MINI,John Cooper Works Convertible,Minicompact Cars,4.0,2.0,76,5,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38750,2023,BMW,840i Coupe,Subcompact Cars,6.0,3.0,81,15,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38751,2023,BMW,840i xDrive Coupe,Subcompact Cars,6.0,3.0,81,15,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38752,2023,BMW,840i Convertible,Subcompact Cars,6.0,3.0,81,12,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38753,2023,BMW,840i xDrive Convertible,Subcompact Cars,6.0,3.0,81,12,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38754,2023,MINI,Cooper S Hardtop 2 door,Subcompact Cars,4.0,2.0,0,0,0,0,80,9,Front-Wheel Drive,31,12.9,24,16.67,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38755,2023,MINI,Cooper S Hardtop 2 door,Subcompact Cars,4.0,2.0,0,0,0,0,80,9,Front-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38756,2023,MINI,Cooper S Hardtop 4 door,Subcompact Cars,4.0,2.0,0,0,0,0,84,9,Front-Wheel Drive,31,12.9,24,16.67,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38758,2023,MINI,Cooper S Hardtop 4 door,Subcompact Cars,4.0,2.0,0,0,0,0,84,9,Front-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38759,2023,MINI,John Cooper Works Hardtop 2 door,Subcompact Cars,4.0,2.0,0,0,0,0,80,9,Front-Wheel Drive,29,13.79,23,17.39,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+38760,2023,MINI,John Cooper Works Hardtop 2 door,Subcompact Cars,4.0,2.0,0,0,0,0,80,9,Front-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38761,2023,BMW,430i xDrive Gran Coupe,Compact Cars,4.0,2.0,0,0,91,12,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38762,2023,BMW,X2 xDrive28i,Midsize Cars,4.0,2.0,0,0,0,0,94,21,All-Wheel Drive,27,14.81,21,19.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38763,2023,BMW,X2 sDrive28i,Midsize Cars,4.0,2.0,0,0,0,0,94,21,Front-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38764,2023,BMW,840i Gran Coupe,Midsize Cars,6.0,3.0,0,0,100,16,0,0,Rear-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38765,2023,BMW,840i xDrive Gran Coupe,Midsize Cars,6.0,3.0,0,0,100,16,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38766,2023,MINI,Cooper S Clubman,Midsize Cars,4.0,2.0,0,0,0,0,92,18,Front-Wheel Drive,29,13.79,23,17.39,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38767,2023,MINI,Cooper S Clubman,Midsize Cars,4.0,2.0,0,0,0,0,92,18,Front-Wheel Drive,25,16.0,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38769,2023,MINI,Cooper S Countryman,Midsize Cars,4.0,2.0,0,0,0,0,97,18,Front-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38770,2023,MINI,Cooper S Countryman All4,Midsize Cars,4.0,2.0,0,0,0,0,97,18,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38771,2023,MINI,Cooper S Clubman All4,Midsize Cars,4.0,2.0,0,0,0,0,92,18,All-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38772,2023,Genesis,G90 MHEV,Large Cars,6.0,3.5,0,0,109,11,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38774,2023,Subaru,BRZ,Minicompact Cars,4.0,2.4,77,6,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38775,2023,Subaru,BRZ,Minicompact Cars,4.0,2.4,77,6,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38781,2023,Hyundai,Elantra,Midsize Cars,4.0,2.0,0,0,99,14,0,0,Front-Wheel Drive,34,11.76,27,14.81,40,10.0,36,11.11,32,12.5,28,14.29,24,20
+38782,2023,Hyundai,Elantra,Midsize Cars,4.0,2.0,0,0,99,14,0,0,Front-Wheel Drive,37,10.81,29,13.79,42,9.52,37,10.81,32,12.5,28,14.29,24,20
+38783,2023,Hyundai,Elantra,Midsize Cars,4.0,1.6,0,0,99,14,0,0,Front-Wheel Drive,31,12.9,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38784,2023,Hyundai,Elantra Hybrid,Midsize Cars,4.0,1.6,0,0,99,14,0,0,Front-Wheel Drive,50,8.0,40,10.0,52,7.69,46,8.7,40,10.0,35,11.43,30,25
+38785,2023,Hyundai,Elantra Hybrid Blue,Midsize Cars,4.0,1.6,0,0,99,14,0,0,Front-Wheel Drive,54,7.41,43,9.3,56,7.14,50,8.0,44,9.09,38,10.53,33,28
+38786,2023,Genesis,G80 AWD,Large Cars,4.0,2.5,0,0,107,15,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38789,2023,Genesis,G80 RWD,Large Cars,4.0,2.5,0,0,107,15,0,0,Rear-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38790,2023,Genesis,G80 AWD,Large Cars,6.0,3.5,0,0,107,15,0,0,All-Wheel Drive,19,21.05,15,26.67,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38791,2023,Kia,Soul,Small Station Wagons,4.0,2.0,0,0,101,24,0,0,Front-Wheel Drive,30,13.33,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38792,2023,Kia,Soul Eco dynamics,Small Station Wagons,4.0,2.0,0,0,101,24,0,0,Front-Wheel Drive,31,12.9,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38793,2023,Kia,Carnival,Minivan - 2WD,6.0,3.5,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38794,2023,Buick,Encore GX FWD,Small Sport Utility Vehicle 2WD,3.0,1.2,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38795,2023,Buick,Encore GX FWD,Small Sport Utility Vehicle 2WD,3.0,1.3,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38796,2023,Chevrolet,Trailblazer FWD,Small Sport Utility Vehicle 2WD,3.0,1.2,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38797,2023,Chevrolet,Trailblazer FWD,Small Sport Utility Vehicle 2WD,3.0,1.3,0,0,0,0,0,0,Front-Wheel Drive,31,12.9,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38798,2023,Hyundai,Palisade FWD,Small Sport Utility Vehicle 2WD,6.0,3.8,0,0,155,18,0,0,Front-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38800,2023,Buick,Encore GX AWD,Small Sport Utility Vehicle 4WD,3.0,1.3,0,0,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38801,2023,Chevrolet,Trailblazer AWD,Small Sport Utility Vehicle 4WD,3.0,1.3,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38802,2023,Hyundai,Palisade AWD,Small Sport Utility Vehicle 4WD,6.0,3.8,0,0,155,18,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38803,2023,Hyundai,Santa Fe Hybrid,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,32,12.5,25,16.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38804,2023,Hyundai,Santa Fe Hybrid Blue,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,34,11.76,27,14.81,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38814,2023,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,32,12.5,25,16.0,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38815,2023,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,29,13.79,23,17.39,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38816,2023,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,30,13.33,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38817,2023,BMW,iX M60 (21 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,77,5.19,61,6.56,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+38818,2023,BMW,iX M60 (22 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,78,5.13,62,6.45,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+38819,2023,Genesis,GV60 ADVANCE,Large Cars,,,0,0,102,24,0,0,All-Wheel Drive,95,4.21,76,5.26,86,4.65,77,5.19,68,5.88,59,6.78,51,43
+38820,2023,Genesis,GV60 PERFORMANCE,Large Cars,,,0,0,102,24,0,0,All-Wheel Drive,90,4.44,72,5.56,82,4.88,73,5.48,64,6.25,56,7.14,48,40
+38822,2023,MINI,Cooper SE Hardtop 2 door,Subcompact Cars,,,0,0,0,0,80,9,Front-Wheel Drive,110,3.64,88,4.55,100,4.0,90,4.44,80,5.0,70,5.71,60,51
+38823,2023,MINI,Cooper SE Countryman All4,Midsize Cars,3.0,1.5,0,0,0,0,95,17,All-Wheel Drive,29,13.79,23,17.39,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38829,2023,Acura,Integra,Large Cars,4.0,1.5,0,0,96,24,0,0,Front-Wheel Drive,33,12.12,26,15.38,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38830,2023,Acura,Integra A-Spec,Large Cars,4.0,1.5,0,0,96,24,0,0,Front-Wheel Drive,32,12.5,25,16.0,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38831,2023,Acura,Integra A-Spec,Large Cars,4.0,1.5,0,0,96,24,0,0,Front-Wheel Drive,30,13.33,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38833,2023,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,30,13.33,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38834,2023,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38835,2023,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,29,13.79,23,17.39,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+38836,2023,Chevrolet,Camaro,Subcompact Cars,6.0,3.6,77,8,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38837,2023,Chevrolet,Camaro,Subcompact Cars,4.0,2.0,77,8,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38838,2023,Chevrolet,Camaro,Subcompact Cars,4.0,2.0,77,8,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38839,2023,Chevrolet,Camaro,Subcompact Cars,8.0,6.2,77,8,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+38840,2023,Chevrolet,Camaro,Subcompact Cars,8.0,6.2,77,8,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+38841,2023,Chevrolet,Camaro,Subcompact Cars,8.0,6.2,77,8,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+38842,2023,Kia,Forte,Midsize Cars,4.0,1.6,0,0,96,15,0,0,Front-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38844,2023,Kia,Forte,Midsize Cars,4.0,1.6,0,0,96,15,0,0,Front-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38845,2023,Kia,Forte FE,Midsize Cars,4.0,2.0,0,0,96,15,0,0,Front-Wheel Drive,34,11.76,27,14.81,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+38846,2023,Kia,Forte,Midsize Cars,4.0,2.0,0,0,96,15,0,0,Front-Wheel Drive,32,12.5,25,16.0,39,10.26,35,11.43,31,12.9,27,14.81,23,19
+38850,2023,Kia,K5,Large Cars,4.0,1.6,0,0,105,16,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38851,2023,Kia,K5 AWD,Large Cars,4.0,1.6,0,0,105,16,0,0,All-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38852,2023,Kia,K5,Large Cars,4.0,2.5,0,0,105,16,0,0,Front-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38857,2023,Honda,HR-V AWD,Small Station Wagons,4.0,2.0,0,0,99,24,0,0,All-Wheel Drive,27,14.81,21,19.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38858,2023,Honda,HR-V FWD,Small Station Wagons,4.0,2.0,0,0,99,24,0,0,Front-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38859,2023,Cadillac,XT5 Hearse FWD,Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38860,2023,Cadillac,XT5 Limo FWD,Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38861,2023,Cadillac,XT5 Hearse AWD,Special Purpose Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38862,2023,Cadillac,XT5 Limo AWD,Special Purpose Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38863,2023,Buick,Envision FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,100,25,0,0,Front-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38864,2023,Cadillac,XT4 FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,101,23,0,0,Front-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38866,2023,Cadillac,XT5 FWD,Small Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38867,2023,Cadillac,XT6 FWD,Small Sport Utility Vehicle 2WD,6.0,3.6,0,0,137,13,0,0,Front-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38868,2023,Cadillac,XT5 FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38869,2023,Cadillac,XT6 FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,137,13,0,0,Front-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38870,2023,Chevrolet,Blazer FWD,Small Sport Utility Vehicle 2WD,6.0,3.6,0,0,107,31,0,0,Front-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38871,2023,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,4.0,1.6,0,0,0,0,0,0,Front-Wheel Drive,32,12.5,25,16.0,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38872,2023,Buick,Envision AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38873,2023,Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38874,2023,Cadillac,XT6 AWD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,137,13,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38875,2023,Cadillac,XT4 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,101,23,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38877,2023,Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38878,2023,Cadillac,XT6 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,137,13,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38879,2023,Chevrolet,Blazer AWD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,107,31,0,0,All-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38880,2023,Buick,Enclave FWD,Standard Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38881,2023,Chevrolet,Traverse FWD,Standard Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38882,2023,GMC,Acadia FWD,Standard Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38884,2023,Buick,Enclave AWD,Standard Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38885,2023,Chevrolet,Traverse AWD,Standard Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38886,2023,GMC,Acadia AWD,Standard Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38888,2023,Land Rover,New Range Rover Sport,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+38901,2023,Audi,A3,Subcompact Cars,4.0,2.0,0,0,87,11,0,0,Front-Wheel Drive,32,12.5,25,16.0,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38902,2023,Audi,A3 quattro,Subcompact Cars,4.0,2.0,0,0,87,8,0,0,All-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38903,2023,Chevrolet,Camaro,Subcompact Cars,6.0,3.6,77,8,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38904,2023,Subaru,Legacy AWD,Large Cars,4.0,2.5,0,0,106,15,0,0,All-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38905,2023,Subaru,Legacy AWD,Large Cars,4.0,2.4,0,0,106,15,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38906,2023,Chevrolet,Blazer FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,107,31,0,0,Front-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38907,2023,Chevrolet,Blazer AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,107,31,0,0,All-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38908,2023,Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38909,2023,Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38911,2023,Subaru,Outback Wilderness AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38912,2023,GMC,Acadia FWD,Standard Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38913,2023,GMC,Acadia AWD,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38915,2023,Volkswagen,Golf-R,Compact Cars,4.0,2.0,0,0,0,0,93,16,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38916,2023,Volkswagen,GTI,Compact Cars,4.0,2.0,0,0,0,0,93,16,Front-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+38917,2023,Volkswagen,GTI,Compact Cars,4.0,2.0,0,0,0,0,93,16,Front-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38919,2023,Hyundai,Sonata,Large Cars,4.0,1.6,0,0,105,16,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38920,2023,Hyundai,Sonata,Large Cars,4.0,2.5,0,0,105,16,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+38922,2023,Hyundai,Sonata,Large Cars,4.0,2.5,0,0,105,16,0,0,Front-Wheel Drive,32,12.5,25,16.0,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+38924,2023,Volkswagen,Taos 4motion,Small Sport Utility Vehicle 4WD,4.0,1.5,0,0,100,28,0,0,All-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38928,2023,Toyota,GR 86,Minicompact Cars,4.0,2.4,77,6,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38929,2023,Toyota,GR 86,Minicompact Cars,4.0,2.4,77,6,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38930,2023,Audi,S3,Subcompact Cars,4.0,2.0,0,0,87,8,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38931,2023,Volkswagen,Golf-R,Compact Cars,4.0,2.0,0,0,0,0,93,16,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38933,2023,Alfa Romeo,Giulia,Midsize Cars,4.0,2.0,0,0,100,12,0,0,Rear-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38934,2023,Alfa Romeo,Giulia,Midsize Cars,6.0,2.9,0,0,100,12,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38935,2023,Alfa Romeo,Giulia AWD,Midsize Cars,4.0,2.0,0,0,100,12,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38936,2023,Jaguar,XF P250,Midsize Cars,4.0,2.0,0,0,97,14,0,0,Rear-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38937,2023,Jaguar,XF P250 AWD,Midsize Cars,4.0,2.0,0,0,97,14,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38938,2023,Jaguar,XF P300 AWD,Midsize Cars,4.0,2.0,0,0,97,14,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38939,2023,Subaru,Impreza 4-Door,Midsize Cars,4.0,2.0,0,0,100,12,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38940,2023,Subaru,Impreza 4-Door,Midsize Cars,4.0,2.0,0,0,100,12,0,0,All-Wheel Drive,32,12.5,25,16.0,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38941,2023,Subaru,Impreza Sport 4-Door,Midsize Cars,4.0,2.0,0,0,100,12,0,0,All-Wheel Drive,30,13.33,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38942,2023,Hyundai,Sonata,Large Cars,4.0,2.5,0,0,105,16,0,0,Front-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38944,2023,Subaru,Impreza 5-Door,Small Station Wagons,4.0,2.0,0,0,101,21,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38945,2023,Subaru,Impreza 5-Door,Small Station Wagons,4.0,2.0,0,0,101,21,0,0,All-Wheel Drive,31,12.9,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+38946,2023,Subaru,Impreza Sport 5-Door,Small Station Wagons,4.0,2.0,0,0,101,21,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38947,2023,Subaru,Impreza Sport 5-Door,Small Station Wagons,4.0,2.0,0,0,101,21,0,0,All-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38948,2023,Acura,MDX FWD,Small Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38949,2023,Alfa Romeo,Stelvio,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+38950,2023,Acura,MDX AWD,Small Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38951,2023,Alfa Romeo,Stelvio AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38952,2023,Alfa Romeo,Stelvio AWD,Small Sport Utility Vehicle 4WD,6.0,2.9,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38953,2023,Infiniti,QX55 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38955,2023,Jaguar,F-Pace,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38956,2023,Jaguar,F-Pace P340 MHEV,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+38957,2023,Jaguar,F-Pace P400 MHEV,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38958,2023,Land Rover,Range Rover Velar,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38959,2023,Land Rover,Range Rover Velar P340 MHEV,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38960,2023,Land Rover,Range Rover Velar P400 MHEV,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+38961,2023,Acura,MDX AWD Type-S,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+38962,2023,Land Rover,New Range Rover P360 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38963,2023,Land Rover,New Range Rover P400 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38964,2023,Land Rover,New Range Rover P400 LWB MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38966,2023,Land Rover,New Range Rover P360 LWB MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38967,2023,Land Rover,New Range Rover Sport P360 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38968,2023,Land Rover,New Range Rover Sport P400 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38977,2023,Audi,S5 Coupe,Subcompact Cars,6.0,3.0,84,11,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38978,2023,Audi,S5 Cabriolet,Subcompact Cars,6.0,3.0,83,9,0,0,0,0,4-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+38979,2023,Audi,RS 5 Coupe,Subcompact Cars,6.0,2.9,84,11,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+38980,2023,Audi,TT Coupe,Subcompact Cars,4.0,2.0,73,12,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+38981,2023,Audi,TTS Coupe,Subcompact Cars,4.0,2.0,74,13,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38982,2023,BMW,230i Coupe,Subcompact Cars,4.0,2.0,88,10,0,0,0,0,Rear-Wheel Drive,29,13.79,23,17.39,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+38983,2023,BMW,230i xDrive Coupe,Subcompact Cars,4.0,2.0,88,10,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+38984,2023,BMW,M240i Coupe,Subcompact Cars,6.0,3.0,88,10,0,0,0,0,Rear-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38985,2023,BMW,M240i xDrive Coupe,Subcompact Cars,6.0,3.0,88,10,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38986,2023,BMW,430i xDrive Coupe,Subcompact Cars,4.0,2.0,86,12,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38988,2023,BMW,430i xDrive Convertible,Subcompact Cars,4.0,2.0,84,9,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+38989,2023,BMW,M440i Coupe,Subcompact Cars,6.0,3.0,86,12,0,0,0,0,Rear-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+38990,2023,BMW,M440i xDrive Coupe,Subcompact Cars,6.0,3.0,86,12,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38991,2023,BMW,M440i Convertible,Subcompact Cars,6.0,3.0,84,9,0,0,0,0,Rear-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38992,2023,BMW,M440i xDrive Convertible,Subcompact Cars,6.0,3.0,84,9,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+38993,2023,BMW,M4 Coupe,Subcompact Cars,6.0,3.0,87,12,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38994,2023,BMW,M4 Competition Coupe,Subcompact Cars,6.0,3.0,87,12,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38995,2023,BMW,M4 Competition M xDrive Coupe,Subcompact Cars,6.0,3.0,87,12,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+38996,2023,BMW,M4 Competition M xDrive Convertible,Subcompact Cars,6.0,3.0,84,9,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+38999,2023,Audi,S4,Compact Cars,6.0,3.0,0,0,92,12,0,0,4-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39000,2023,BMW,228i xDrive Gran Coupe,Compact Cars,4.0,2.0,0,0,91,12,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39001,2023,BMW,228i Gran Coupe,Compact Cars,4.0,2.0,0,0,91,12,0,0,Front-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39002,2023,BMW,M340i xDrive Sedan,Compact Cars,6.0,3.0,0,0,94,13,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39003,2023,BMW,M3 Sedan,Compact Cars,6.0,3.0,0,0,95,13,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39004,2023,BMW,M3 Competition Sedan,Compact Cars,6.0,3.0,0,0,95,13,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39005,2023,BMW,M3 Competition M xDrive Sedan,Compact Cars,6.0,3.0,0,0,95,13,0,0,All-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39006,2023,BMW,M440i Gran Coupe,Compact Cars,6.0,3.0,0,0,91,12,0,0,Rear-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39007,2023,BMW,M440i xDrive Gran Coupe,Compact Cars,6.0,3.0,0,0,91,12,0,0,All-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39008,2023,Cadillac,CT4,Compact Cars,4.0,2.0,0,0,90,11,0,0,Rear-Wheel Drive,27,14.81,21,19.05,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39011,2023,Cadillac,CT4 AWD,Compact Cars,4.0,2.0,0,0,90,11,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39012,2023,Cadillac,CT4,Compact Cars,4.0,2.7,0,0,90,11,0,0,Rear-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39013,2023,Cadillac,CT4 V,Compact Cars,4.0,2.7,0,0,90,11,0,0,Rear-Wheel Drive,23,17.39,18,22.22,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39014,2023,Cadillac,CT4 AWD,Compact Cars,4.0,2.7,0,0,90,11,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39015,2023,Cadillac,CT4 V AWD,Compact Cars,4.0,2.7,0,0,90,11,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39016,2023,Cadillac,CT4 V,Compact Cars,6.0,3.6,0,0,90,11,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39017,2023,Cadillac,CT4 V,Compact Cars,6.0,3.6,0,0,90,11,0,0,Rear-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39018,2023,Mitsubishi,Mirage,Compact Cars,3.0,1.2,0,0,86,17,86,17,Front-Wheel Drive,36,11.11,28,14.29,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39019,2023,Mitsubishi,Mirage,Compact Cars,3.0,1.2,0,0,86,17,86,17,Front-Wheel Drive,39,10.26,31,12.9,43,9.3,38,10.53,33,12.12,29,13.79,25,21
+39020,2023,Mitsubishi,Mirage G4,Compact Cars,3.0,1.2,0,0,89,12,0,0,Front-Wheel Drive,35,11.43,28,14.29,40,10.0,36,11.11,32,12.5,28,14.29,24,20
+39022,2023,Mitsubishi,Mirage G4,Compact Cars,3.0,1.2,0,0,89,12,0,0,Front-Wheel Drive,37,10.81,29,13.79,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39023,2023,Volkswagen,Jetta,Compact Cars,4.0,1.5,0,0,94,16,0,0,Front-Wheel Drive,34,11.76,27,14.81,42,9.52,37,10.81,32,12.5,28,14.29,24,20
+39024,2023,Volkswagen,Jetta,Compact Cars,4.0,1.5,0,0,94,16,0,0,Front-Wheel Drive,35,11.43,28,14.29,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39025,2023,Volkswagen,Jetta Sport/SE/SEL,Compact Cars,4.0,1.5,0,0,94,16,0,0,Front-Wheel Drive,33,12.12,26,15.38,40,10.0,36,11.11,32,12.5,28,14.29,24,20
+39026,2023,Volvo,S60 B5,Compact Cars,4.0,2.0,0,0,93,12,0,0,Front-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39027,2023,Volvo,S60 B5 AWD,Compact Cars,4.0,2.0,0,0,93,12,0,0,All-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39028,2023,Audi,S5 Sportback,Midsize Cars,6.0,3.0,0,0,0,0,91,22,4-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39029,2023,Audi,RS 5 Sportback,Midsize Cars,6.0,2.9,0,0,0,0,91,22,4-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39030,2023,BMW,530i Sedan,Midsize Cars,4.0,2.0,0,0,99,14,0,0,Rear-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39031,2023,BMW,530i xDrive Sedan,Midsize Cars,4.0,2.0,0,0,99,14,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39033,2023,BMW,540i xDrive Sedan,Midsize Cars,6.0,3.0,0,0,99,14,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39034,2023,BMW,M550i xDrive Sedan,Midsize Cars,8.0,4.4,0,0,99,14,0,0,All-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39035,2023,BMW,M5 Sedan,Midsize Cars,8.0,4.4,0,0,103,14,0,0,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39036,2023,BMW,M5 Competition Sedan,Midsize Cars,8.0,4.4,0,0,103,14,0,0,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39037,2023,Cadillac,CT5 AWD,Midsize Cars,4.0,2.0,0,0,99,11,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39038,2023,Cadillac,CT5,Midsize Cars,4.0,2.0,0,0,99,11,0,0,Rear-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39039,2023,Cadillac,CT5,Midsize Cars,6.0,3.0,0,0,99,11,0,0,Rear-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39040,2023,Cadillac,CT5 V,Midsize Cars,6.0,3.0,0,0,99,11,0,0,Rear-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39041,2023,Cadillac,CT5 AWD,Midsize Cars,6.0,3.0,0,0,99,11,0,0,All-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39042,2023,Cadillac,CT5 V,Midsize Cars,8.0,6.2,0,0,99,11,0,0,Rear-Wheel Drive,15,26.67,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39044,2023,Volvo,S90 B6 AWD,Midsize Cars,4.0,2.0,0,0,102,14,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39045,2023,Hyundai,Sonata Hybrid,Large Cars,4.0,2.0,0,0,105,16,0,0,Front-Wheel Drive,47,8.51,37,10.81,51,7.84,45,8.89,40,10.0,35,11.43,30,25
+39046,2023,Hyundai,Sonata Hybrid Blue,Large Cars,4.0,2.0,0,0,105,16,0,0,Front-Wheel Drive,52,7.69,41,9.76,54,7.41,48,8.33,42,9.52,36,11.11,31,26
+39047,2023,Volvo,V60CC B5 AWD,Small Station Wagons,4.0,2.0,0,0,94,29,0,0,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39048,2023,Volvo,V90CC B6 AWD,Midsize Station Wagons,4.0,2.0,0,0,98,34,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39049,2023,BMW,X3 sDrive30i,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39050,2023,Hyundai,Kona N,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39051,2023,Hyundai,Santa Cruz FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39052,2023,Kia,Sorento Hybrid FWD,Small Sport Utility Vehicle 2WD,4.0,1.6,0,0,0,0,0,0,Front-Wheel Drive,37,10.81,29,13.79,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39053,2023,Volvo,XC60 B5,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39055,2023,Volvo,XC40 B4,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39056,2023,Audi,SQ5,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39057,2023,Audi,SQ5 Sportback,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39058,2023,Audi,Q3 S-Line,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39059,2023,BMW,X3 xDrive30i,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39060,2023,BMW,X3 M40i,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39061,2023,BMW,X3 M,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39062,2023,BMW,X3 M Competition,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39063,2023,BMW,X4 xDrive30i,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39064,2023,BMW,X4 M40i,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39066,2023,BMW,X4 M,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39067,2023,BMW,X4 M Competition,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39068,2023,Hyundai,Santa Cruz AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39069,2023,Hyundai,Santa Cruz AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39070,2023,Jaguar,F-Pace SVR,Small Sport Utility Vehicle 4WD,8.0,5.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39071,2023,Kia,Sorento Hybrid AWD,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,34,11.76,27,14.81,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39075,2023,Volvo,XC60 B5 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39077,2023,Volvo,XC60 B6 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39078,2023,Volvo,XC40 B5 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39079,2023,BMW,X5 sDrive40i,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39080,2023,Cadillac,Escalade 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39081,2023,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39082,2023,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39083,2023,Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39084,2023,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39085,2023,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39086,2023,Jeep,Grand Cherokee L 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39088,2023,Audi,SQ7,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39089,2023,Audi,SQ8,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39090,2023,BMW,X5 xDrive40i,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39091,2023,BMW,X5 M50i,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39092,2023,BMW,X5 M,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39093,2023,BMW,X5 M Competition,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39094,2023,BMW,X6 xDrive40i,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39095,2023,BMW,X6 M50i,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39096,2023,BMW,X6 M,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39097,2023,BMW,X6 M Competition,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39099,2023,Cadillac,Escalade 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39100,2023,Cadillac,Escalade V 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,13,30.77,10,40.0,16,25.0,14,28.57,12,33.33,10,40.0,8,6
+39101,2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39102,2023,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39103,2023,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39104,2023,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39105,2023,Jeep,Grand Cherokee 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39106,2023,Jeep,Grand Cherokee L 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39107,2023,Jeep,Grand Cherokee L 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39108,2023,Volvo,XC90 B5 AWD,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39110,2023,Volvo,XC90 B6 AWD,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39123,2023,BMW,430i Coupe,Subcompact Cars,4.0,2.0,86,12,0,0,0,0,Rear-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39124,2023,BMW,430i Convertible,Subcompact Cars,4.0,2.0,84,9,0,0,0,0,Rear-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39125,2023,BMW,M340i Sedan,Compact Cars,6.0,3.0,0,0,94,13,0,0,Rear-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39126,2023,BMW,430i Gran Coupe,Compact Cars,4.0,2.0,0,0,91,12,0,0,Rear-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39127,2023,Lexus,UX 250h,Compact Cars,4.0,2.0,0,0,0,0,90,17,Front-Wheel Drive,42,9.52,33,12.12,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39128,2023,Lexus,UX 250h AWD,Compact Cars,4.0,2.0,0,0,0,0,90,17,All-Wheel Drive,39,10.26,31,12.9,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+39129,2023,Audi,RS 7,Midsize Cars,8.0,4.0,0,0,0,0,95,25,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39130,2023,Hyundai,Venue,Midsize Cars,4.0,1.6,0,0,92,19,0,0,Front-Wheel Drive,31,12.9,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39131,2023,Infiniti,Q50,Midsize Cars,6.0,3.0,0,0,100,14,0,0,Rear-Wheel Drive,23,17.39,18,22.22,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39133,2023,Infiniti,Q50 AWD,Midsize Cars,6.0,3.0,0,0,100,14,0,0,All-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39134,2023,Infiniti,Q50 Red Sport,Midsize Cars,6.0,3.0,0,0,100,14,0,0,Rear-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39135,2023,Infiniti,Q50 Red Sport  AWD,Midsize Cars,6.0,3.0,0,0,100,14,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39136,2023,Audi,A8 L,Large Cars,6.0,3.0,0,0,111,13,0,0,All-Wheel Drive,22,18.18,17,23.53,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39137,2023,Audi,RS 6 Avant,Midsize Station Wagons,8.0,4.0,0,0,101,30,0,0,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39138,2023,Hyundai,Santa Fe FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39139,2023,Hyundai,Santa Fe FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39140,2023,BMW,X1 xDrive28i,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39141,2023,Hyundai,Santa Fe AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39142,2023,Hyundai,Santa Fe AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39144,2023,Cadillac,Escalade 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39145,2023,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39146,2023,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39147,2023,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39148,2023,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39149,2023,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39150,2023,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39151,2023,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39152,2023,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39153,2023,Audi,Q7,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39155,2023,Audi,Q8,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39156,2023,BMW,X7 xDrive40i,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39157,2023,BMW,X7 M60i xDrive,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39158,2023,Cadillac,Escalade 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39159,2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39160,2023,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39161,2023,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39162,2023,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39163,2023,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39164,2023,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39166,2023,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39167,2023,Land Rover,Defender 130 P300 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39168,2023,Land Rover,Defender 130 P400 MHEV,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39173,2023,Audi,A5 Coupe quattro,Subcompact Cars,4.0,2.0,84,11,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39174,2023,Audi,A5 Cabriolet quattro,Subcompact Cars,4.0,2.0,83,9,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39175,2023,BMW,M4 CSL Coupe,Subcompact Cars,6.0,3.0,87,12,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39177,2023,Audi,A4 S-Line quattro,Compact Cars,4.0,2.0,0,0,92,12,0,0,All-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39178,2023,Audi,A4 quattro,Compact Cars,4.0,2.0,0,0,92,12,0,0,All-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39179,2023,Kia,Rio,Compact Cars,4.0,1.6,0,0,90,14,91,17,Front-Wheel Drive,36,11.11,28,14.29,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39180,2023,Volkswagen,GLI,Compact Cars,4.0,2.0,0,0,94,16,0,0,Front-Wheel Drive,30,13.33,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39181,2023,Volkswagen,GLI,Compact Cars,4.0,2.0,0,0,94,16,0,0,Front-Wheel Drive,30,13.33,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39182,2023,Audi,A6 quattro,Midsize Cars,4.0,2.0,0,0,99,14,0,0,All-Wheel Drive,27,14.81,21,19.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39183,2023,Audi,A7,Midsize Cars,6.0,3.0,0,0,0,0,95,25,All-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39184,2023,Audi,A6 quattro,Midsize Cars,6.0,3.0,0,0,99,14,0,0,All-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39185,2023,Audi,A5 Sportback S-Line quattro,Midsize Cars,4.0,2.0,0,0,0,0,91,22,All-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39186,2023,Audi,A5 Sportback quattro,Midsize Cars,4.0,2.0,0,0,0,0,91,22,All-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39188,2023,Audi,S6,Midsize Cars,6.0,2.9,0,0,99,14,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39189,2023,Audi,S7,Midsize Cars,6.0,2.9,0,0,0,0,94,25,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39190,2023,Cadillac,CT5 V,Midsize Cars,8.0,6.2,0,0,99,11,0,0,Rear-Wheel Drive,16,25.0,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39191,2023,BMW,740i Sedan,Large Cars,6.0,3.0,0,0,112,14,0,0,Rear-Wheel Drive,27,14.81,21,19.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39192,2023,BMW,760i xDrive Sedan,Large Cars,8.0,4.4,0,0,112,14,0,0,All-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39199,2023,Volkswagen,Arteon,Large Cars,4.0,2.0,0,0,96,27,0,0,Front-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39200,2023,Volkswagen,Arteon 4motion,Large Cars,4.0,2.0,0,0,96,27,0,0,All-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39201,2023,Audi,A4 allroad quattro,Small Station Wagons,4.0,2.0,0,0,92,24,0,0,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39202,2023,Kia,Niro,Small Station Wagons,4.0,1.6,0,0,105,23,0,0,Front-Wheel Drive,49,8.16,39,10.26,45,8.89,40,10.0,35,11.43,30,13.33,26,22
+39203,2023,Kia,Niro FE,Small Station Wagons,4.0,1.6,0,0,105,23,0,0,Front-Wheel Drive,53,7.55,42,9.52,54,7.41,48,8.33,42,9.52,36,11.11,31,26
+39204,2023,Audi,A6 Allroad,Midsize Station Wagons,6.0,3.0,0,0,101,30,0,0,All-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39207,2023,Volkswagen,Atlas,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39208,2023,Volkswagen,Atlas Cross Sport,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39210,2023,Volkswagen,Atlas,Small Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39211,2023,Volkswagen,Atlas Cross Sport,Small Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39212,2023,Volkswagen,Taos,Small Sport Utility Vehicle 2WD,4.0,1.5,0,0,100,28,0,0,Front-Wheel Drive,31,12.9,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39213,2023,Audi,Q5 quattro,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39214,2023,Audi,Q5 S-Line quattro,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39215,2023,Audi,Q5 Sportback S-line quattro,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39216,2023,Hyundai,Tucson Hybrid,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,37,10.81,29,13.79,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39217,2023,Hyundai,Tucson Hybrid Blue,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,38,10.53,30,13.33,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+39218,2023,Hyundai,Tucson AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39219,2023,Jeep,Wrangler 4dr EcoDiesel 4WD,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39221,2023,Jeep,Wrangler Rubic 4dr EcoDiesel 4WD,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39222,2023,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,23,17.39,18,22.22,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39223,2023,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39224,2023,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39225,2023,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39226,2023,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39227,2023,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39228,2023,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,8.0,6.4,0,0,0,0,0,0,4-Wheel Drive,14,28.57,11,36.36,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39229,2023,Mercedes-Benz,GLB250 4matic,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39230,2023,Volkswagen,Atlas 4motion,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39233,2023,Volkswagen,Atlas 4motion,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39234,2023,Volkswagen,Atlas Cross Sport 4motion,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39235,2023,Volkswagen,Atlas Cross Sport 4motion,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39236,2023,Volkswagen,Tiguan 4motion,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39237,2023,Volkswagen,Tiguan R-Line 4motion,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39238,2023,Audi,RS Q8,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39239,2023,Audi,Q7,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39240,2023,Porsche,Cayenne,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39241,2023,Porsche,Cayenne S,Standard Sport Utility Vehicle 4WD,6.0,2.9,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39242,2023,Porsche,Cayenne S Coupe,Standard Sport Utility Vehicle 4WD,6.0,2.9,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39244,2023,Porsche,Cayenne Turbo,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39245,2023,Porsche,Cayenne Turbo GT,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39246,2023,Porsche,Cayenne Turbo Coupe,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39247,2023,Porsche,Cayenne GTS,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39248,2023,Porsche,Cayenne GTS Coupe,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39251,2023,Mercedes-Benz,CLA250 4matic,Compact Cars,4.0,2.0,0,0,89,12,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39252,2023,Mercedes-Benz,CLA250,Compact Cars,4.0,2.0,0,0,89,12,0,0,Front-Wheel Drive,29,13.79,23,17.39,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39253,2023,Toyota,Camry,Midsize Cars,6.0,3.5,0,0,100,14,0,0,Front-Wheel Drive,26,15.38,20,20.0,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39255,2023,Toyota,Camry TRD,Midsize Cars,6.0,3.5,0,0,100,14,0,0,Front-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39256,2023,Toyota,Camry XSE,Midsize Cars,6.0,3.5,0,0,100,14,0,0,Front-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39257,2023,Toyota,Camry AWD LE/SE,Midsize Cars,4.0,2.5,0,0,100,15,0,0,All-Wheel Drive,29,13.79,23,17.39,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39258,2023,Toyota,Camry AWD XLE/XSE,Midsize Cars,4.0,2.5,0,0,100,15,0,0,All-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39259,2023,Toyota,Camry LE/SE,Midsize Cars,4.0,2.5,0,0,100,14,0,0,Front-Wheel Drive,32,12.5,25,16.0,39,10.26,35,11.43,31,12.9,27,14.81,23,19
+39260,2023,Toyota,Camry XLE/XSE,Midsize Cars,4.0,2.5,0,0,100,14,0,0,Front-Wheel Drive,31,12.9,24,16.67,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+39261,2023,Toyota,Camry Hybrid LE,Midsize Cars,4.0,2.5,0,0,100,15,0,0,Front-Wheel Drive,52,7.69,41,9.76,53,7.55,47,8.51,41,9.76,36,11.11,31,26
+39262,2023,Toyota,Camry Hybrid SE/XLE/XSE,Midsize Cars,4.0,2.5,0,0,100,15,0,0,Front-Wheel Drive,46,8.7,36,11.11,47,8.51,42,9.52,37,10.81,32,12.5,27,22
+39263,2023,Porsche,Panamera,Large Cars,6.0,2.9,0,0,0,0,98,27,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39264,2023,Porsche,Panamera 4S,Large Cars,6.0,2.9,0,0,0,0,98,27,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39266,2023,Porsche,Panamera 4S Executive,Large Cars,6.0,2.9,0,0,0,0,101,27,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39267,2023,Porsche,Panamera 4S ST,Large Cars,6.0,2.9,0,0,99,25,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39268,2023,Porsche,Panamera 4,Large Cars,6.0,2.9,0,0,0,0,98,27,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39269,2023,Porsche,Panamera 4 Executive,Large Cars,6.0,2.9,0,0,0,0,101,27,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39270,2023,Porsche,Panamera 4 ST,Large Cars,6.0,2.9,0,0,99,25,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39271,2023,Porsche,Panamera Turbo S,Large Cars,8.0,4.0,0,0,0,0,98,27,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39272,2023,Porsche,Panamera GTS,Large Cars,8.0,4.0,0,0,0,0,98,27,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39273,2023,Porsche,Panamera GTS ST,Large Cars,8.0,4.0,0,0,99,25,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39274,2023,Nissan,Titan 2WD,Standard Pickup Trucks 2WD,8.0,5.6,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39275,2023,Honda,Ridgeline AWD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39277,2023,Nissan,Titan 4WD,Standard Pickup Trucks 4WD,8.0,5.6,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39278,2023,Nissan,Titan 4WD PRO4X,Standard Pickup Trucks 4WD,8.0,5.6,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39279,2023,Mercedes-Benz,GLA250,Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39280,2023,Mercedes-Benz,GLB250,Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39281,2023,Mercedes-Benz,GLA250 4matic,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39282,2023,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.4,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39283,2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39284,2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39285,2023,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.4,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39286,2023,Cadillac,LYRIQ,Small Sport Utility Vehicle 2WD,,,0,0,105,24,0,0,Rear-Wheel Drive,89,4.49,71,5.63,82,4.88,73,5.48,64,6.25,56,7.14,48,40
+39288,2023,Chevrolet,Bolt EUV,Small Station Wagons,,,0,0,97,16,0,0,Front-Wheel Drive,115,3.48,92,4.35,104,3.85,93,4.3,82,4.88,72,5.56,62,52
+39289,2023,Chevrolet,Bolt EV,Small Station Wagons,,,0,0,94,17,0,0,Front-Wheel Drive,120,3.33,96,4.17,109,3.67,98,4.08,87,4.6,76,5.26,66,56
+39290,2023,Polestar,2 BST edition,Midsize Cars,,,0,0,0,0,89,26,All-Wheel Drive,95,4.21,76,5.26,91,4.4,81,4.94,72,5.56,63,6.35,54,45
+39291,2023,Polestar,2 Dual Motor,Midsize Cars,,,0,0,0,0,89,26,All-Wheel Drive,100,4.0,80,5.0,96,4.17,86,4.65,76,5.26,66,6.06,57,48
+39292,2023,Polestar,2 Dual Motor Perf Pack,Midsize Cars,,,0,0,0,0,89,26,All-Wheel Drive,100,4.0,80,5.0,96,4.17,86,4.65,76,5.26,66,6.06,57,48
+39293,2023,Polestar,2 Single Motor,Midsize Cars,,,0,0,0,0,89,26,Front-Wheel Drive,107,3.74,85,4.71,100,4.0,90,4.44,80,5.0,70,5.71,60,51
+39294,2023,Toyota,bZ4X,Small Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Front-Wheel Drive,119,3.36,95,4.21,107,3.74,96,4.17,85,4.71,74,5.41,64,54
+39295,2023,Toyota,bZ4X LIMITED,Small Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Front-Wheel Drive,114,3.51,91,4.4,103,3.88,92,4.35,81,4.94,71,5.63,61,51
+39296,2023,Toyota,bZ4X AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,104,3.85,83,4.82,94,4.26,84,4.76,74,5.41,65,6.15,56,47
+39297,2023,Toyota,bZ4X LIMITED AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,102,3.92,81,4.94,92,4.35,82,4.88,72,5.56,63,6.35,54,45
+39299,2023,Volvo,C40 Recharge twin,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,87,4.6,69,5.8,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+39300,2023,Volvo,XC40 Recharge twin,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,85,4.71,68,5.88,79,5.06,71,5.63,63,6.35,55,7.27,47,39
+39303,2023,BMW,M235i xDrive Gran Coupe,Compact Cars,4.0,2.0,0,0,91,12,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39304,2023,BMW,330i Sedan,Compact Cars,4.0,2.0,0,0,94,13,0,0,Rear-Wheel Drive,29,13.79,23,17.39,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39305,2023,Nissan,Kicks,Midsize Cars,4.0,1.6,0,0,0,0,93,25,Front-Wheel Drive,33,12.12,26,15.38,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39307,2023,Nissan,Murano FWD,Midsize Station Wagons,6.0,3.5,0,0,108,28,0,0,Front-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39308,2023,Nissan,Murano AWD,Midsize Station Wagons,6.0,3.5,0,0,108,28,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39310,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39311,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39312,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39313,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39314,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39315,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39316,2023,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39317,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39318,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39319,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39321,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39322,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39323,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39324,2023,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39325,2023,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39326,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39327,2023,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39328,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39329,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39330,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39332,2023,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39333,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39334,2023,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39335,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39336,2023,Chevrolet,Silverado 4WD ZR2,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39337,2023,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39338,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39339,2023,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39340,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39341,2023,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39344,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39345,2023,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39346,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39347,2023,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39348,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39349,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39350,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39351,2023,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39352,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39353,2023,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39355,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39356,2023,GMC,Sierra 4WD AT4X,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39357,2023,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39358,2023,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39359,2023,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39360,2023,Jeep,Gladiator EcoDiesel 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39361,2023,Jeep,Gladiator Rubic EcoDiesel 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39362,2023,Jeep,Gladiator 4WD,Standard Pickup Trucks 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39363,2023,Jeep,Gladiator 4WD,Standard Pickup Trucks 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39364,2023,Chevrolet,Silverado Cab Chassis 4WD,Special Purpose Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39366,2023,Chevrolet,Silverado Cab Chassis 2WD,Special Purpose Vehicle 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39367,2023,GMC,Sierra Cab Chassis 4WD,Special Purpose Vehicle 4WD,8.0,5.3,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39368,2023,GMC,Sierra Cab Chassis 2WD,Special Purpose Vehicle 2WD,8.0,5.3,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39369,2023,Chevrolet,Equinox FWD,Small Sport Utility Vehicle 2WD,4.0,1.5,0,0,104,30,0,0,Front-Wheel Drive,28,14.29,22,18.18,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39370,2023,GMC,Terrain FWD,Small Sport Utility Vehicle 2WD,4.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39371,2023,Nissan,Rogue FWD,Small Sport Utility Vehicle 2WD,3.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,33,12.12,26,15.38,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39372,2023,Nissan,Rogue FWD SL/Platinum,Small Sport Utility Vehicle 2WD,3.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,32,12.5,25,16.0,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39373,2023,Chevrolet,Equinox AWD,Small Sport Utility Vehicle 4WD,4.0,1.5,0,0,104,30,0,0,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39374,2023,GMC,Terrain AWD,Small Sport Utility Vehicle 4WD,4.0,1.5,0,0,104,30,0,0,All-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39375,2023,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39377,2023,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39378,2023,Nissan,Rogue AWD,Small Sport Utility Vehicle 4WD,3.0,1.5,0,0,0,0,0,0,All-Wheel Drive,31,12.9,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39379,2023,Nissan,Rogue AWD SL/Platinum,Small Sport Utility Vehicle 4WD,3.0,1.5,0,0,0,0,0,0,All-Wheel Drive,31,12.9,24,16.67,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39380,2023,Nissan,Pathfinder 4WD Rock Creek,Small Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39381,2023,Porsche,Macan,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39382,2023,Porsche,Macan S,Small Sport Utility Vehicle 4WD,6.0,2.9,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39383,2023,Porsche,Macan T,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39384,2023,Porsche,Macan GTS,Small Sport Utility Vehicle 4WD,6.0,2.9,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39385,2023,Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,29,13.79,23,17.39,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39386,2023,Subaru,Forester Wilderness AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39388,2023,Infiniti,QX60 FWD,Standard Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39389,2023,Jeep,Wagoneer 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,0,0,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39390,2023,Toyota,4Runner 2WD,Standard Sport Utility Vehicle 2WD,6.0,4.0,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39391,2023,Infiniti,QX60 AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39392,2023,Jeep,Grand Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39393,2023,Jeep,Grand Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.4,0,0,0,0,0,0,All-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39394,2023,Jeep,Grand Wagoneer L 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39395,2023,Jeep,Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39396,2023,Land Rover,New Range Rover,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39397,2023,Land Rover,New Range Rover LWB,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39399,2023,Land Rover,New Range Rover LWB,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39400,2023,Land Rover,New Range Rover,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39401,2023,Lexus,GX 460,Standard Sport Utility Vehicle 4WD,8.0,4.6,0,0,0,0,0,0,4-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39402,2023,Mercedes-Benz,GLE450 4matic,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39403,2023,Subaru,Ascent,Standard Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39404,2023,Subaru,Ascent Limited/Touring/Onyx AWD,Standard Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39405,2023,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,6.0,4.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39406,2023,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,6.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39411,2023,Lexus,ES 250 AWD,Midsize Cars,4.0,2.5,0,0,97,14,0,0,All-Wheel Drive,28,14.29,22,18.18,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39412,2023,Lexus,ES 300h,Midsize Cars,4.0,2.5,0,0,97,14,0,0,Front-Wheel Drive,44,9.09,35,11.43,44,9.09,39,10.26,34,11.76,29,13.79,25,21
+39413,2023,Audi,S8,Large Cars,8.0,4.0,0,0,111,13,0,0,All-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39414,2023,Toyota,Tacoma 2WD,Small Pickup Trucks 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39415,2023,Toyota,Tacoma 2WD,Small Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39416,2023,Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39417,2023,Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39418,2023,Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,Small Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39419,2023,Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39421,2023,Nissan,Frontier 2WD,Standard Pickup Trucks 2WD,6.0,3.8,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39422,2023,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,6.0,3.4,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39423,2023,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,6.0,3.4,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39424,2023,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,6.0,3.4,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39425,2023,Nissan,Frontier 4WD,Standard Pickup Trucks 4WD,6.0,3.8,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39426,2023,Nissan,Frontier 4WD PRO4X,Standard Pickup Trucks 4WD,6.0,3.8,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39427,2023,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,6.0,3.4,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39428,2023,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,6.0,3.4,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39429,2023,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,6.0,3.4,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39430,2023,Toyota,Tundra 4WD PRO,Standard Pickup Trucks 4WD,6.0,3.4,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39432,2023,Infiniti,QX50,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39433,2023,Mitsubishi,Outlander 2WD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39434,2023,Nissan,Pathfinder 2WD,Small Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39435,2023,Volkswagen,Tiguan,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39436,2023,Volkswagen,Tiguan S,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39437,2023,Infiniti,QX50 AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39438,2023,Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39439,2023,Nissan,Pathfinder 4WD,Small Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,4-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39440,2023,Nissan,Pathfinder 4WD SL/Platinum,Small Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,4-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39441,2023,Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,8.0,5.7,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39443,2023,Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39444,2023,Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,8.0,5.7,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39445,2023,Mercedes-Benz,GLS450 4matic,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39446,2023,Mercedes-Benz,AMG GLE53 4matic Plus,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39447,2023,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39452,2023,Toyota,Corolla Hatchback,Compact Cars,4.0,2.0,0,0,0,0,85,18,Front-Wheel Drive,35,11.43,28,14.29,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39455,2023,Toyota,Corolla Hatchback XSE,Compact Cars,4.0,2.0,0,0,0,0,85,18,Front-Wheel Drive,33,12.12,26,15.38,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+39458,2023,Chevrolet,Malibu,Midsize Cars,4.0,1.5,0,0,100,13,0,0,Front-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39459,2023,Mercedes-Benz,S500 4matic,Large Cars,6.0,3.0,0,0,112,13,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39477,2023,Mercedes-Benz,C300 Coupe,Subcompact Cars,4.0,2.0,79,10,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39478,2023,Mercedes-Benz,C300 4matic Coupe,Subcompact Cars,4.0,2.0,79,10,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39479,2023,Mercedes-Benz,C300 4matic Convertible,Subcompact Cars,4.0,2.0,81,9,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39480,2023,Mercedes-Benz,C300 Convertible,Subcompact Cars,4.0,2.0,81,9,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39481,2023,Lexus,IS 300 AWD,Compact Cars,6.0,3.5,0,0,90,11,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39482,2023,Lexus,IS 350,Compact Cars,6.0,3.5,0,0,90,11,0,0,Rear-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39483,2023,Lexus,IS 350 AWD,Compact Cars,6.0,3.5,0,0,90,11,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39484,2023,Lexus,IS 500,Compact Cars,8.0,5.0,0,0,90,11,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39485,2023,Lexus,IS 300,Compact Cars,4.0,2.0,0,0,90,11,0,0,Rear-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39486,2023,Toyota,Corolla Hybrid,Compact Cars,4.0,1.8,0,0,89,13,0,0,Front-Wheel Drive,47,8.51,37,10.81,43,9.3,38,10.53,33,12.12,29,13.79,25,21
+39488,2023,Toyota,Corolla Hybrid AWD,Compact Cars,4.0,1.8,0,0,89,13,0,0,All-Wheel Drive,44,9.09,35,11.43,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39489,2023,Toyota,Corolla,Compact Cars,4.0,2.0,0,0,89,13,0,0,Front-Wheel Drive,35,11.43,28,14.29,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39490,2023,Toyota,Corolla,Compact Cars,4.0,2.0,0,0,89,13,0,0,Front-Wheel Drive,34,11.76,27,14.81,40,10.0,36,11.11,32,12.5,28,14.29,24,20
+39491,2023,Hyundai,Elantra N,Midsize Cars,4.0,2.0,0,0,99,14,0,0,Front-Wheel Drive,23,17.39,18,22.22,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39492,2023,Hyundai,Elantra N,Midsize Cars,4.0,2.0,0,0,99,14,0,0,Front-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39493,2023,Lexus,ES 350,Midsize Cars,6.0,3.5,0,0,98,14,0,0,Front-Wheel Drive,26,15.38,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39494,2023,Lexus,ES 350 F Sport,Midsize Cars,6.0,3.5,0,0,98,14,0,0,Front-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39495,2023,Mazda,3 5-Door 2WD,Midsize Cars,4.0,2.5,0,0,0,0,93,20,Front-Wheel Drive,30,13.33,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39496,2023,Mazda,3 5-Door 2WD,Midsize Cars,4.0,2.5,0,0,0,0,93,20,Front-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39497,2023,Mazda,3 5-Door 4WD,Midsize Cars,4.0,2.5,0,0,0,0,93,20,4-Wheel Drive,29,13.79,23,17.39,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39499,2023,Mazda,3 5-Door 4WD,Midsize Cars,4.0,2.5,0,0,0,0,93,20,4-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39500,2023,Mercedes-Benz,E350,Midsize Cars,4.0,2.0,0,0,98,13,0,0,Rear-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39501,2023,Mercedes-Benz,E350 4matic,Midsize Cars,4.0,2.0,0,0,98,13,0,0,All-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39502,2023,Nissan,Maxima,Midsize Cars,6.0,3.5,0,0,98,14,0,0,Front-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39503,2023,Nissan,Altima,Midsize Cars,4.0,2.5,0,0,101,15,0,0,Front-Wheel Drive,32,12.5,25,16.0,39,10.26,35,11.43,31,12.9,27,14.81,23,19
+39504,2023,Nissan,Altima AWD,Midsize Cars,4.0,2.5,0,0,101,15,0,0,All-Wheel Drive,30,13.33,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39505,2023,Nissan,Altima SL/SR,Midsize Cars,4.0,2.5,0,0,101,15,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39506,2023,Nissan,Altima SR,Midsize Cars,4.0,2.0,0,0,101,15,0,0,Front-Wheel Drive,29,13.79,23,17.39,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39507,2023,Toyota,Sienna 2WD,Minivan - 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,36,11.11,28,14.29,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39508,2023,Toyota,Sienna AWD,Minivan - 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,35,11.43,28,14.29,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39510,2023,Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,4.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39511,2023,Kia,Telluride FWD,Small Sport Utility Vehicle 2WD,6.0,3.8,0,0,157,21,0,0,Front-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39512,2023,Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,4.0,1.5,0,0,0,0,0,0,All-Wheel Drive,29,13.79,23,17.39,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39513,2023,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39514,2023,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39515,2023,Kia,Telluride AWD,Small Sport Utility Vehicle 4WD,6.0,3.8,0,0,157,21,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39516,2023,Mazda,CX-9 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39517,2023,Mercedes-Benz,GLE350,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39518,2023,Mercedes-Benz,GLE350 4matic,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39519,2023,Infiniti,QX80 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.6,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39521,2023,Infiniti,QX80 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.6,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39522,2023,Infiniti,QX80 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.6,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39537,2023,Chevrolet,Camaro,Subcompact Cars,8.0,6.2,77,8,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39538,2023,Mercedes-Benz,Metris (US Postal Long),Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39539,2023,Mercedes-Benz,Metris (US Postal),Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39540,2023,Honda,Passport AWD,Small Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39541,2023,Mercedes-Benz,GLC300 4matic Coupe,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39544,2023,Audi,e-tron GT,Midsize Cars,,,0,0,101,11,0,0,All-Wheel Drive,82,4.88,65,6.15,83,4.82,74,5.41,65,6.15,57,7.02,49,41
+39545,2023,Audi,RS e-tron GT,Midsize Cars,,,0,0,101,11,0,0,All-Wheel Drive,81,4.94,64,6.25,82,4.88,73,5.48,64,6.25,56,7.14,48,40
+39546,2023,Audi,Q4 e-tron,Small Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Rear-Wheel Drive,103,3.88,82,4.88,94,4.26,84,4.76,74,5.41,65,6.15,56,47
+39547,2023,Audi,e-tron quattro,Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,79,5.06,63,6.35,79,5.06,71,5.63,63,6.35,55,7.27,47,39
+39548,2023,Audi,e-tron S (20 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,73,5.48,58,6.9,75,5.33,67,5.97,59,6.78,51,7.84,44,37
+39549,2023,Audi,e-tron S Sportback (20 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,75,5.33,60,6.67,78,5.13,70,5.71,62,6.45,54,7.41,46,39
+39550,2023,Audi,e-tron Sportback quattro,Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,78,5.13,62,6.45,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+39551,2023,Audi,Q4 e-tron quattro,Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,93,4.3,74,5.41,87,4.6,78,5.13,69,5.8,60,6.67,52,44
+39552,2023,Audi,Q4 e-tron Sportback,Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,95,4.21,76,5.26,89,4.49,80,5.0,71,5.63,62,6.45,53,45
+39554,2023,BMW,i4 M50 Gran Coupe (19 inch wheels),Subcompact Cars,,,0,0,90,10,0,0,All-Wheel Drive,96,4.17,76,5.26,98,4.08,88,4.55,78,5.13,68,5.88,59,50
+39555,2023,BMW,i4 M50 Gran Coupe (20 inch wheels),Subcompact Cars,,,0,0,90,10,0,0,All-Wheel Drive,80,5.0,64,6.25,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+39556,2023,BMW,i4 eDrive40 Gran Coupe (18 inch wheels),Subcompact Cars,,,0,0,90,10,0,0,Rear-Wheel Drive,109,3.67,87,4.6,108,3.7,97,4.12,86,4.65,75,5.33,65,55
+39557,2023,BMW,i7 xDrive60 Sedan (19 inch wheels),Large Cars,,,0,0,112,11,0,0,All-Wheel Drive,89,4.49,71,5.63,92,4.35,82,4.88,72,5.56,63,6.35,54,45
+39558,2023,BMW,i7 xDrive60 Sedan (20 inch wheels),Large Cars,,,0,0,112,11,0,0,All-Wheel Drive,83,4.82,66,6.06,85,4.71,76,5.26,67,5.97,58,6.9,50,42
+39559,2023,BMW,i7 xDrive60 Sedan (21 inch wheels),Large Cars,,,0,0,112,11,0,0,All-Wheel Drive,87,4.6,69,5.8,89,4.49,80,5.0,71,5.63,62,6.45,53,45
+39560,2023,BMW,iX xDrive50 (20 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,86,4.65,68,5.88,87,4.6,78,5.13,69,5.8,60,6.67,52,44
+39561,2023,BMW,iX xDrive50 (21 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,83,4.82,66,6.06,84,4.76,75,5.33,66,6.06,58,6.9,50,42
+39562,2023,BMW,iX xDrive50 (22 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,86,4.65,68,5.88,85,4.71,76,5.26,67,5.97,58,6.9,50,42
+39563,2023,Genesis,Electrified G80,Midsize Cars,,,0,0,99,13,0,0,All-Wheel Drive,97,4.12,77,5.19,89,4.49,80,5.0,71,5.63,62,6.45,53,45
+39567,2023,Hyundai,Kona Electric,Small Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Front-Wheel Drive,120,3.33,96,4.17,106,3.77,95,4.21,84,4.76,73,5.48,63,53
+39568,2023,Jaguar,I-Pace EV400 (20 inch tires),Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,4-Wheel Drive,85,4.71,68,5.88,82,4.88,73,5.48,64,6.25,56,7.14,48,40
+39569,2023,Jaguar,I-Pace EV400 (22 inch tires),Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,4-Wheel Drive,76,5.26,60,6.67,72,5.56,64,6.25,56,7.14,49,8.16,42,35
+39570,2023,Kia,EV6 AWD GT,Small Station Wagons,,,0,0,104,24,0,0,All-Wheel Drive,79,5.06,63,6.35,74,5.41,66,6.06,58,6.9,51,7.84,44,37
+39571,2023,Kia,EV6 Long Range AWD (19 inch tires),Small Station Wagons,,,0,0,103,24,0,0,All-Wheel Drive,109,3.67,87,4.6,98,4.08,88,4.55,78,5.13,68,5.88,59,50
+39572,2023,Kia,EV6 Long Range AWD (20 inch tires),Small Station Wagons,,,0,0,103,24,0,0,All-Wheel Drive,96,4.17,76,5.26,86,4.65,77,5.19,68,5.88,59,6.78,51,43
+39573,2023,Kia,EV6 Long Range RWD,Small Station Wagons,,,0,0,103,24,0,0,Rear-Wheel Drive,117,3.42,93,4.3,101,3.96,90,4.44,80,5.0,70,5.71,60,51
+39574,2023,Kia,EV6 Standard Range RWD,Small Station Wagons,,,0,0,103,24,0,0,Rear-Wheel Drive,117,3.42,93,4.3,100,4.0,90,4.44,80,5.0,70,5.71,60,51
+39575,2023,Kia,Niro Electric,Small Station Wagons,,,0,0,100,23,0,0,Front-Wheel Drive,113,3.54,90,4.44,101,3.96,90,4.44,80,5.0,70,5.71,60,51
+39576,2023,Mercedes-Benz,EQS 450 4Matic,Large Cars,,,0,0,103,35,0,0,All-Wheel Drive,103,3.88,82,4.88,105,3.81,94,4.26,83,4.82,73,5.48,63,53
+39578,2023,Mercedes-Benz,EQS 450 4Matic (SUV),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,78,5.13,62,6.45,77,5.19,69,5.8,61,6.56,53,7.55,46,39
+39579,2023,Mercedes-Benz,EQS 450 Plus (SUV),Standard Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Rear-Wheel Drive,85,4.71,68,5.88,83,4.82,74,5.41,65,6.15,57,7.02,49,41
+39580,2023,Mercedes-Benz,EQS 580 4Matic (SUV),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,77,5.19,61,6.56,74,5.41,66,6.06,58,6.9,51,7.84,44,37
+39581,2023,Nissan,ARIYA ENGAGE FWD 63kWh,Small Station Wagons,,,0,0,101,23,0,0,Front-Wheel Drive,101,3.96,80,5.0,94,4.26,84,4.76,74,5.41,65,6.15,56,47
+39582,2023,Nissan,ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh,Small Station Wagons,,,0,0,101,23,0,0,Front-Wheel Drive,98,4.08,78,5.13,91,4.4,81,4.94,72,5.56,63,6.35,54,45
+39583,2023,Nissan,ARIYA VENTURE Plus FWD 87kWh,Small Station Wagons,,,0,0,101,27,0,0,Front-Wheel Drive,103,3.88,82,4.88,95,4.21,85,4.71,75,5.33,66,6.06,57,48
+39584,2023,Nissan,LEAF,Midsize Cars,,,0,0,0,0,92,24,Front-Wheel Drive,111,3.6,88,4.55,99,4.04,89,4.49,79,5.06,69,5.8,60,51
+39585,2023,Nissan,LEAF SV,Midsize Cars,,,0,0,0,0,92,24,Front-Wheel Drive,109,3.67,87,4.6,98,4.08,88,4.55,78,5.13,68,5.88,59,50
+39586,2023,Porsche,Taycan 4 Cross Turismo,Midsize Cars,,,0,0,0,0,90,24,All-Wheel Drive,80,5.0,64,6.25,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+39587,2023,Porsche,Taycan 4S Cross Turismo,Midsize Cars,,,0,0,0,0,91,24,All-Wheel Drive,78,5.13,62,6.45,78,5.13,70,5.71,62,6.45,54,7.41,46,39
+39589,2023,Porsche,Taycan 4S Perf Battery Plus,Compact Cars,,,0,0,89,12,0,0,All-Wheel Drive,80,5.0,64,6.25,81,4.94,72,5.56,64,6.25,56,7.14,48,40
+39590,2023,Porsche,Taycan 4S Performance Battery,Compact Cars,,,0,0,89,12,0,0,All-Wheel Drive,82,4.88,65,6.15,82,4.88,73,5.48,64,6.25,56,7.14,48,40
+39591,2023,Porsche,Taycan GTS,Compact Cars,,,0,0,89,11,0,0,All-Wheel Drive,83,4.82,66,6.06,82,4.88,73,5.48,64,6.25,56,7.14,48,40
+39592,2023,Porsche,Taycan GTS Sport Turismo,Compact Cars,,,0,0,0,0,90,12,All-Wheel Drive,80,5.0,64,6.25,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+39593,2023,Porsche,Taycan Perf Battery Plus,Compact Cars,,,0,0,90,12,0,0,Rear-Wheel Drive,82,4.88,65,6.15,88,4.55,79,5.06,70,5.71,61,6.56,53,45
+39594,2023,Porsche,Taycan Performance Battery,Compact Cars,,,0,0,90,12,0,0,Rear-Wheel Drive,83,4.82,66,6.06,88,4.55,79,5.06,70,5.71,61,6.56,53,45
+39595,2023,Porsche,Taycan Turbo,Compact Cars,,,0,0,89,11,0,0,All-Wheel Drive,81,4.94,64,6.25,80,5.0,72,5.56,64,6.25,56,7.14,48,40
+39596,2023,Porsche,Taycan Turbo Cross Turismo,Midsize Cars,,,0,0,0,0,92,24,All-Wheel Drive,79,5.06,63,6.35,78,5.13,70,5.71,62,6.45,54,7.41,46,39
+39597,2023,Porsche,Taycan Turbo S,Compact Cars,,,0,0,89,11,0,0,All-Wheel Drive,75,5.33,60,6.67,74,5.41,66,6.06,58,6.9,51,7.84,44,37
+39598,2023,Porsche,Taycan Turbo S Cross Turismo,Midsize Cars,,,0,0,0,0,93,24,All-Wheel Drive,75,5.33,60,6.67,74,5.41,66,6.06,58,6.9,51,7.84,44,37
+39600,2023,Subaru,Solterra AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,104,3.85,83,4.82,94,4.26,84,4.76,74,5.41,65,6.15,56,47
+39601,2023,Subaru,Solterra Limited/Touring AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,102,3.92,81,4.94,93,4.3,83,4.82,73,5.48,64,6.25,55,46
+39602,2023,Volkswagen,ID.4,Small Sport Utility Vehicle 2WD,,,0,0,100,30,0,0,Rear-Wheel Drive,107,3.74,85,4.71,99,4.04,89,4.49,79,5.06,69,5.8,60,51
+39603,2023,Volkswagen,ID.4 AWD Pro,Small Sport Utility Vehicle 4WD,,,0,0,100,30,0,0,All-Wheel Drive,99,4.04,79,5.06,93,4.3,83,4.82,73,5.48,64,6.25,55,46
+39604,2023,Volkswagen,ID.4 AWD Pro S,Small Sport Utility Vehicle 4WD,,,0,0,100,30,0,0,All-Wheel Drive,99,4.04,79,5.06,93,4.3,83,4.82,73,5.48,64,6.25,55,46
+39605,2023,Volkswagen,ID.4 Pro,Small Sport Utility Vehicle 2WD,,,0,0,100,30,0,0,Rear-Wheel Drive,107,3.74,85,4.71,98,4.08,88,4.55,78,5.13,68,5.88,59,50
+39606,2023,Volkswagen,ID.4 Pro S,Small Sport Utility Vehicle 2WD,,,0,0,100,30,0,0,Rear-Wheel Drive,107,3.74,85,4.71,98,4.08,88,4.55,78,5.13,68,5.88,59,50
+39607,2023,Volkswagen,ID.4 S,Small Sport Utility Vehicle 2WD,,,0,0,100,30,0,0,Rear-Wheel Drive,107,3.74,85,4.71,99,4.04,89,4.49,79,5.06,69,5.8,60,51
+39609,2023,Lexus,LC 500 Convertible,Minicompact Cars,8.0,5.0,75,3,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39611,2023,Lexus,RC 300 AWD,Subcompact Cars,6.0,3.5,84,10,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39612,2023,Lexus,RC 350,Subcompact Cars,6.0,3.5,84,10,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39613,2023,Lexus,RC 350 AWD,Subcompact Cars,6.0,3.5,84,10,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39614,2023,Lexus,RC 300,Subcompact Cars,4.0,2.0,84,10,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39615,2023,Lexus,LC 500,Subcompact Cars,8.0,5.0,86,5,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39616,2023,Mercedes-Benz,E450 Coupe,Subcompact Cars,6.0,3.0,89,10,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39617,2023,Mercedes-Benz,E450 4matic Coupe,Subcompact Cars,6.0,3.0,89,10,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39618,2023,Mercedes-Benz,E450 4matic Convertible,Subcompact Cars,6.0,3.0,87,9,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39619,2023,Mercedes-Benz,C300,Compact Cars,4.0,2.0,0,0,93,12,0,0,Rear-Wheel Drive,29,13.79,23,17.39,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39620,2023,Mercedes-Benz,C300 4matic,Compact Cars,4.0,2.0,0,0,93,12,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39622,2023,Mercedes-Benz,CLS450 4matic,Compact Cars,6.0,3.0,0,0,93,12,0,0,All-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39623,2023,Honda,Civic 4Dr,Midsize Cars,4.0,1.5,0,0,99,15,0,0,Front-Wheel Drive,36,11.11,28,14.29,42,9.52,37,10.81,32,12.5,28,14.29,24,20
+39624,2023,Honda,Civic 4Dr,Midsize Cars,4.0,1.5,0,0,99,15,0,0,Front-Wheel Drive,34,11.76,27,14.81,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+39625,2023,Honda,Civic 4Dr,Midsize Cars,4.0,1.5,0,0,99,15,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39626,2023,Honda,Civic 4Dr,Midsize Cars,4.0,2.0,0,0,99,15,0,0,Front-Wheel Drive,33,12.12,26,15.38,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39627,2023,Mercedes-Benz,E450 4matic,Midsize Cars,6.0,3.0,0,0,98,13,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39628,2023,Mercedes-Benz,S580 4matic Maybach,Large Cars,8.0,4.0,118,13,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39629,2023,Mercedes-Benz,S580 4matic,Large Cars,8.0,4.0,107,14,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39630,2023,Mercedes-Benz,E450 4matic All-Terrain (wagon),Midsize Station Wagons,6.0,3.0,0,0,98,35,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39631,2023,Mercedes-Benz,Metris (Passenger Van),Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39633,2023,Mercedes-Benz,Metris (Cargo Van),Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39634,2023,Mercedes-Benz,"Metris (Cargo Van, LWB)",Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39635,2023,Acura,RDX FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39636,2023,Acura,RDX FWD A-SPEC,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39637,2023,Honda,CR-V Hybrid FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,40,10.0,32,12.5,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39638,2023,Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39639,2023,Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39640,2023,Toyota,RAV4,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39641,2023,Toyota,RAV4,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39642,2023,Acura,RDX AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39644,2023,Acura,RDX AWD A-SPEC,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39645,2023,Honda,CR-V Hybrid AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,37,10.81,29,13.79,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39646,2023,Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39647,2023,Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39648,2023,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39649,2023,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,29,13.79,23,17.39,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39650,2023,Toyota,RAV4 AWD TRD OFFROAD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39651,2023,Toyota,RAV4 AWD LE,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,30,13.33,24,16.67,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39652,2023,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,40,10.0,32,12.5,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+39653,2023,Toyota,Venza AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,39,10.26,31,12.9,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39655,2023,Toyota,RAV4 Hybrid AWD Woodland Edition,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,37,10.81,29,13.79,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39666,2023,Porsche,911 Carrera,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39667,2023,Porsche,911 Carrera Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39668,2023,Porsche,911 Carrera S,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39669,2023,Porsche,911 Carrera S,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39670,2023,Porsche,911 Carrera S Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39671,2023,Porsche,911 Carrera S Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39672,2023,Porsche,911 Carrera 4S,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39673,2023,Porsche,911 Carrera 4S,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39674,2023,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39675,2023,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39678,2023,Porsche,911 Carrera 4,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39679,2023,Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39680,2023,Porsche,911 Targa 4S,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39681,2023,Porsche,911 Targa 4S,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39682,2023,Porsche,911 Targa 4,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39683,2023,Porsche,911 Carrera GTS,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39684,2023,Porsche,911 Carrera GTS,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39685,2023,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39686,2023,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39687,2023,Porsche,911 Carrera 4 GTS,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39689,2023,Porsche,911 Carrera 4 GTS,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39690,2023,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39691,2023,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,6.0,3.0,68,5,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39692,2023,Porsche,911 Targa 4 GTS,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39693,2023,Porsche,911 Targa 4 GTS,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39694,2023,Porsche,911 Turbo,Minicompact Cars,6.0,3.7,70,5,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39695,2023,Porsche,911 Sport Classic,Minicompact Cars,6.0,3.7,70,5,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39696,2023,Porsche,911 Turbo Cabriolet,Minicompact Cars,6.0,3.7,70,5,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39697,2023,Porsche,911 Turbo S,Minicompact Cars,6.0,3.7,70,5,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39698,2023,Porsche,911 Turbo S Cabriolet,Minicompact Cars,6.0,3.7,70,5,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39700,2023,BMW,M2 Coupe,Subcompact Cars,6.0,3.0,88,10,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39701,2023,BMW,M2 Coupe,Subcompact Cars,6.0,3.0,88,10,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39702,2023,Lexus,LC 500h,Subcompact Cars,6.0,3.5,86,5,0,0,0,0,Rear-Wheel Drive,29,13.79,23,17.39,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39703,2023,Mercedes-Benz,AMG C43 4matic Coupe,Subcompact Cars,6.0,3.0,79,10,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39704,2023,Acura,TLX AWD,Compact Cars,4.0,2.0,0,0,93,14,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39705,2023,Acura,TLX FWD,Compact Cars,4.0,2.0,0,0,93,14,0,0,Front-Wheel Drive,25,16.0,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39706,2023,Acura,TLX AWD A-SPEC,Compact Cars,4.0,2.0,0,0,93,14,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39707,2023,Acura,TLX FWD A-SPEC,Compact Cars,4.0,2.0,0,0,93,14,0,0,Front-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39708,2023,Acura,TLX Type-S,Compact Cars,6.0,3.0,0,0,93,13,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39709,2023,Acura,TLX Type-S Perf Tire,Compact Cars,6.0,3.0,0,0,93,13,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39711,2023,BMW,330i xDrive Sedan,Compact Cars,4.0,2.0,0,0,94,13,0,0,All-Wheel Drive,27,14.81,21,19.05,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39712,2023,Toyota,Corolla Hybrid,Compact Cars,4.0,1.8,0,0,89,13,0,0,Front-Wheel Drive,50,8.0,40,10.0,46,8.7,41,9.76,36,11.11,31,12.9,26,22
+39713,2023,Toyota,Corolla Hybrid AWD,Compact Cars,4.0,1.8,0,0,89,13,0,0,All-Wheel Drive,48,8.33,38,10.53,44,9.09,39,10.26,34,11.76,29,13.79,25,21
+39714,2023,BMW,540i Sedan,Midsize Cars,6.0,3.0,0,0,99,14,0,0,Rear-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39715,2023,Lexus,LS 500h AWD,Midsize Cars,6.0,3.5,0,0,99,12,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39716,2023,Lexus,LS 500,Midsize Cars,6.0,3.4,0,0,99,13,0,0,Rear-Wheel Drive,22,18.18,17,23.53,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39717,2023,Lexus,LS 500 AWD,Midsize Cars,6.0,3.4,0,0,99,13,0,0,All-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39718,2023,Honda,Civic 5Dr,Large Cars,4.0,1.5,0,0,0,0,99,24,Front-Wheel Drive,35,11.43,28,14.29,39,10.26,35,11.43,31,12.9,27,14.81,23,19
+39719,2023,Honda,Civic 5Dr,Large Cars,4.0,1.5,0,0,0,0,99,24,Front-Wheel Drive,33,12.12,26,15.38,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39720,2023,Honda,Civic 5Dr,Large Cars,4.0,1.5,0,0,0,0,99,24,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39722,2023,Honda,Civic 5Dr,Large Cars,4.0,2.0,0,0,0,0,99,24,Front-Wheel Drive,32,12.5,25,16.0,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39723,2023,Honda,Civic 5Dr,Large Cars,4.0,2.0,0,0,0,0,99,24,Front-Wheel Drive,29,13.79,23,17.39,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39724,2023,Honda,Civic 5Dr,Large Cars,4.0,2.0,0,0,0,0,99,24,Front-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39725,2023,Lexus,NX 250,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,28,14.29,22,18.18,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39726,2023,Mitsubishi,Outlander Sport 2WD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,27,14.81,21,19.05,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39727,2023,Toyota,Highlander Hybrid,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,36,11.11,28,14.29,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39728,2023,Toyota,Highlander,Small Sport Utility Vehicle 2WD,4.0,2.4,0,0,0,0,0,0,Front-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39729,2023,Toyota,Highlander,Small Sport Utility Vehicle 2WD,4.0,2.4,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39730,2023,Lexus,NX 250 AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39731,2023,Lexus,NX 350h AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,39,10.26,31,12.9,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39733,2023,Lexus,NX 350 AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39734,2023,Lexus,NX 350 AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39735,2023,Mercedes-Benz,AMG GLC43 4matic  Coupe,Small Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39736,2023,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39737,2023,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,4-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39738,2023,Toyota,Highlander AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39739,2023,BMW,Alpina XB7,Standard Sport Utility Vehicle 4WD,8.0,4.4,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39740,2023,Toyota,Highlander Hybrid AWD LTD/PLAT,Standard Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,35,11.43,28,14.29,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39741,2023,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,35,11.43,28,14.29,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39742,2023,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,6.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39744,2023,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,6.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39745,2023,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39746,2023,Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,6.0,3.3,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39747,2023,Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,6.0,3.3,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39748,2023,Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,8.0,5.0,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39749,2023,Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,8.0,5.0,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39750,2023,Ford,F150 Pickup 2WD HEV,Standard Pickup Trucks 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39751,2023,Ford,Ranger 2WD,Standard Pickup Trucks 2WD,4.0,2.3,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39752,2023,Ford,Ranger 2WD,Standard Pickup Trucks 2WD,4.0,2.3,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39753,2023,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,6.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39755,2023,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,6.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39756,2023,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39757,2023,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39758,2023,Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,6.0,3.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39759,2023,Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,8.0,5.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39760,2023,Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,8.0,5.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39761,2023,Ford,F150 Pickup 4WD HEV,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,23,17.39,18,22.22,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39762,2023,Ford,F150 Pickup Tremor 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39763,2023,Ford,F150 Pickup Tremor 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39764,2023,Ford,F150 Pickup Tremor 4WD FFV,Standard Pickup Trucks 4WD,8.0,5.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39766,2023,Ford,F150 Pickup Tremor 4WD FFV,Standard Pickup Trucks 4WD,8.0,5.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39767,2023,Ford,F150 RAPTOR 37 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,15,26.67,12,33.33,16,25.0,14,28.57,12,33.33,10,40.0,8,6
+39768,2023,Ford,F150 RAPTOR 37 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,15,26.67,12,33.33,16,25.0,14,28.57,12,33.33,10,40.0,8,6
+39769,2023,Ford,F150 RAPTOR 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39770,2023,Ford,F150 RAPTOR 4WD,Standard Pickup Trucks 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,16,25.0,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39771,2023,Ford,F150 RAPTOR R 4WD,Standard Pickup Trucks 4WD,8.0,5.2,0,0,0,0,0,0,Part-time 4-Wheel Drive,12,33.33,9,44.44,15,26.67,13,30.77,11,36.36,9,44.44,7,5
+39772,2023,Ford,Ranger 4WD,Standard Pickup Trucks 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39773,2023,Ford,Ranger 4WD,Standard Pickup Trucks 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39774,2023,Ford,Ranger Tremor 4WD,Standard Pickup Trucks 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39775,2023,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39777,2023,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39778,2023,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,6.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39779,2023,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39780,2023,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39781,2023,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,6.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39782,2023,Ford,Bronco Black Diamond 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39783,2023,Ford,Bronco Black Diamond 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39784,2023,Ford,Bronco Black Diamond 4WD,Small Sport Utility Vehicle 4WD,6.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39785,2023,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39786,2023,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+39789,2023,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,6.0,2.7,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39790,2023,Lincoln,Aviator RWD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39791,2023,Ford,Bronco Raptor 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,15,26.67,12,33.33,16,25.0,14,28.57,12,33.33,10,40.0,8,6
+39792,2023,Lincoln,Aviator AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39793,2023,Tesla,Model 3 Long Range AWD,Midsize Cars,,,0,0,97,15,0,0,All-Wheel Drive,131,3.05,104,3.85,126,3.17,113,3.54,100,4.0,88,4.55,76,64
+39794,2023,Tesla,Model 3 Performance AWD,Midsize Cars,,,0,0,97,15,0,0,All-Wheel Drive,113,3.54,90,4.44,107,3.74,96,4.17,85,4.71,74,5.41,64,54
+39795,2023,Tesla,Model 3 RWD,Midsize Cars,,,0,0,97,15,0,0,Rear-Wheel Drive,132,3.03,105,3.81,126,3.17,113,3.54,100,4.0,88,4.55,76,64
+39796,2023,Tesla,Model S,Large Cars,,,0,0,0,0,94,26,All-Wheel Drive,120,3.33,96,4.17,115,3.48,103,3.88,91,4.4,80,5.0,69,58
+39797,2023,Tesla,Model X,Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,102,3.92,81,4.94,97,4.12,87,4.6,77,5.19,67,5.97,58,49
+39798,2023,Tesla,Model X Plaid (20 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,98,4.08,78,5.13,93,4.3,83,4.82,73,5.48,64,6.25,55,46
+39800,2023,Tesla,Model X Plaid (22 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,91,4.4,72,5.56,88,4.55,79,5.06,70,5.71,61,6.56,53,45
+39801,2023,Tesla,Model Y AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,123,3.25,98,4.08,116,3.45,104,3.85,92,4.35,80,5.0,69,58
+39802,2023,Tesla,Model Y Long Range AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,122,3.28,97,4.12,117,3.42,105,3.81,93,4.3,81,4.94,70,59
+39803,2023,Tesla,Model Y Performance AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,111,3.6,88,4.55,106,3.77,95,4.21,84,4.76,73,5.48,63,53
+39804,2023,Mercedes-Benz,AMG E53 4matic Plus Coupe,Subcompact Cars,6.0,3.0,89,10,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39805,2023,Mercedes-Benz,AMG E53 4matic Plus Convertible,Subcompact Cars,6.0,3.0,87,9,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39806,2023,Mercedes-Benz,E450 Convertible,Subcompact Cars,6.0,3.0,87,9,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39807,2023,Mercedes-Benz,AMG C43 4matic Convertible,Subcompact Cars,6.0,3.0,81,9,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39808,2023,Toyota,GR Corolla,Subcompact Cars,3.0,1.6,0,0,0,0,67,27,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39809,2023,Mercedes-Benz,AMG CLA45 4matic,Compact Cars,4.0,2.0,89,12,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39811,2023,Mercedes-Benz,AMG GT 43 4matic Plus,Compact Cars,6.0,3.0,0,0,96,13,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39812,2023,Mercedes-Benz,AMG GT 53 4matic Plus,Compact Cars,6.0,3.0,0,0,96,13,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39813,2023,Mercedes-Benz,AMG E53 4matic Plus,Midsize Cars,6.0,3.0,0,0,97,13,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39814,2023,Mercedes-Benz,AMG GLA45 4matic,Small Station Wagons,4.0,2.0,0,0,102,12,0,0,All-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39815,2023,Ram,1500 2WD,Standard Pickup Trucks 2WD,6.0,3.6,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39816,2023,Ram,1500 2WD,Standard Pickup Trucks 2WD,8.0,5.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39817,2023,Ram,1500 4WD,Standard Pickup Trucks 4WD,6.0,3.0,0,0,0,0,0,0,4-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39818,2023,Ram,1500 4WD,Standard Pickup Trucks 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39819,2023,Ram,1500 4WD,Standard Pickup Trucks 4WD,8.0,5.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39820,2023,Ram,1500 TRX 4WD,Standard Pickup Trucks 4WD,8.0,6.2,0,0,0,0,0,0,4-Wheel Drive,12,33.33,9,44.44,14,28.57,12,33.33,10,40.0,8,50.0,6,5
+39822,2023,Lexus,RX 350,Small Sport Utility Vehicle 2WD,4.0,2.4,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39823,2023,Jeep,Renegade 4WD,Small Sport Utility Vehicle 4WD,4.0,1.3,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39824,2023,Jeep,Renegade Trailhawk 4WD,Small Sport Utility Vehicle 4WD,4.0,1.3,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39825,2023,Lexus,RX 350 AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39826,2023,Mazda,CX-30 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,29,13.79,23,17.39,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39827,2023,Mazda,CX-30 4WD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,4-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39828,2023,Jeep,Wagoneer 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39829,2023,Jeep,Wagoneer L 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39830,2023,Nissan,Armada 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.6,0,0,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39831,2023,Dodge,Durango SRT AWD,Standard Sport Utility Vehicle 4WD,8.0,6.2,0,0,0,0,0,0,All-Wheel Drive,13,30.77,10,40.0,17,23.53,15,26.67,13,30.77,11,36.36,9,7
+39833,2023,Dodge,Durango SRT AWD,Standard Sport Utility Vehicle 4WD,8.0,6.4,0,0,0,0,0,0,All-Wheel Drive,15,26.67,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39834,2023,Jeep,Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39835,2023,Jeep,Wagoneer L 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39836,2023,Lexus,LX 600,Standard Sport Utility Vehicle 4WD,6.0,3.4,0,0,0,0,0,0,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39837,2023,Mercedes-Benz,G550,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,4-Wheel Drive,14,28.57,11,36.36,16,25.0,14,28.57,12,33.33,10,40.0,8,6
+39839,2023,BMW,530e Sedan,Compact Cars,4.0,2.0,0,0,99,10,0,0,Rear-Wheel Drive,26,15.38,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39840,2023,BMW,530e xDrive Sedan,Compact Cars,4.0,2.0,0,0,99,10,0,0,All-Wheel Drive,25,16.0,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39841,2023,BMW,X5 xDrive45e,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39842,2023,Chrysler,Pacifica Hybrid,Minivan - 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39844,2023,Hyundai,Santa Fe Plug-in Hybrid,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,33,12.12,26,15.38,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39845,2023,Hyundai,Tucson Plug-in Hybrid,Small Sport Utility Vehicle 4WD,4.0,1.6,0,0,0,0,0,0,All-Wheel Drive,35,11.43,28,14.29,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39846,2023,Jeep,Wrangler 4dr 4xe,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,20,20.0,16,25.0,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39847,2023,Jeep,Grand Cherokee 4xe,Standard Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,4-Wheel Drive,23,17.39,18,22.22,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39848,2023,Lexus,NX 450h Plus AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,36,11.11,28,14.29,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39849,2023,Lincoln,Aviator PHEV AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,23,17.39,18,22.22,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39850,2023,Porsche,Panamera 4 e-Hybrid,Large Cars,6.0,2.9,0,0,0,0,98,27,All-Wheel Drive,22,18.18,17,23.53,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39851,2023,Porsche,Panamera 4S E-Hybrid,Large Cars,6.0,2.9,0,0,0,0,98,27,All-Wheel Drive,22,18.18,17,23.53,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39852,2023,Porsche,Panamera Turbo S e-Hybrid,Large Cars,8.0,4.0,0,0,0,0,98,27,All-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39853,2023,Porsche,Cayenne Turbo S e-Hybrid,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39855,2023,Porsche,Cayenne Turbo S e-Hybrid Coupe,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39856,2023,Volvo,S90 T8 AWD Recharge ext. Range,Midsize Cars,4.0,2.0,0,0,102,14,0,0,All-Wheel Drive,30,13.33,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39857,2023,Volvo,V60 T8 AWD Recharge ext. Range,Small Station Wagons,4.0,2.0,0,0,94,29,0,0,All-Wheel Drive,31,12.9,24,16.67,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39858,2023,Mercedes-Benz,AMG CLA35 4matic,Compact Cars,4.0,2.0,0,0,89,12,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39859,2023,Dodge,Challenger,Midsize Cars,6.0,3.6,94,16,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39860,2023,Dodge,Challenger,Midsize Cars,8.0,5.7,94,16,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39861,2023,Dodge,Challenger,Midsize Cars,8.0,5.7,94,16,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39862,2023,Dodge,Challenger,Midsize Cars,8.0,6.4,94,16,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39863,2023,Dodge,Challenger,Midsize Cars,8.0,6.4,94,16,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39864,2023,Dodge,Challenger SRT,Midsize Cars,8.0,6.2,94,16,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39866,2023,Dodge,Challenger Widebody,Midsize Cars,8.0,6.4,94,16,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39867,2023,Dodge,Challenger Widebody,Midsize Cars,8.0,6.4,94,16,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39868,2023,Dodge,Challenger AWD,Midsize Cars,6.0,3.6,94,16,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39869,2023,Dodge,Challenger SRT Widebody,Midsize Cars,8.0,6.2,94,16,0,0,0,0,Rear-Wheel Drive,15,26.67,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39870,2023,Subaru,WRX,Midsize Cars,4.0,2.4,0,0,99,12,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39871,2023,Subaru,WRX,Midsize Cars,4.0,2.4,0,0,99,12,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39872,2023,Chrysler,300 AWD,Large Cars,6.0,3.6,0,0,106,16,0,0,All-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39873,2023,Chrysler,300,Large Cars,6.0,3.6,0,0,106,16,0,0,Rear-Wheel Drive,23,17.39,18,22.22,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39874,2023,Chrysler,300,Large Cars,8.0,5.7,0,0,106,16,0,0,Rear-Wheel Drive,19,21.05,15,26.67,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39875,2023,Chrysler,300,Large Cars,8.0,6.4,0,0,106,16,0,0,Rear-Wheel Drive,18,22.22,14,28.57,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39877,2023,Dodge,Charger,Large Cars,6.0,3.6,0,0,105,16,0,0,Rear-Wheel Drive,23,17.39,18,22.22,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39878,2023,Dodge,Charger,Large Cars,8.0,5.7,0,0,105,16,0,0,Rear-Wheel Drive,19,21.05,15,26.67,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39879,2023,Dodge,Charger,Large Cars,8.0,6.4,0,0,105,16,0,0,Rear-Wheel Drive,18,22.22,14,28.57,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39880,2023,Dodge,Charger SRT Widebody,Large Cars,8.0,6.2,0,0,105,17,0,0,Rear-Wheel Drive,15,26.67,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39881,2023,Dodge,Charger AWD,Large Cars,6.0,3.6,0,0,105,16,0,0,All-Wheel Drive,21,19.05,16,25.0,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39882,2023,Dodge,Charger Widebody,Large Cars,8.0,6.4,0,0,105,17,0,0,Rear-Wheel Drive,18,22.22,14,28.57,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39883,2023,Mercedes-Benz,AMG GLA35 4matic,Small Station Wagons,4.0,2.0,0,0,99,9,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39884,2023,Mercedes-Benz,AMG GLB35 4matic,Midsize Station Wagons,4.0,2.0,0,0,125,12,0,0,All-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39885,2023,Ram,1500 Classic 2WD,Standard Pickup Trucks 2WD,6.0,3.6,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39886,2023,Ram,1500 Classic 2WD,Standard Pickup Trucks 2WD,8.0,5.7,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39888,2023,Ram,1500 Classic 4WD,Standard Pickup Trucks 4WD,6.0,3.6,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39889,2023,Ram,1500 Classic 4WD,Standard Pickup Trucks 4WD,8.0,5.7,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39890,2023,Chrysler,Pacifica AWD,Minivan - 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39891,2023,Toyota,Corolla Cross,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,32,12.5,25,16.0,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39892,2023,Jeep,Cherokee 4WD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39893,2023,Jeep,Cherokee Trailhawk 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39894,2023,Toyota,Corolla Cross 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,30,13.33,24,16.67,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39895,2023,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,104,17,0,0,All-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39896,2023,Mercedes-Benz,AMG GLE63 S 4matic Plus,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39897,2023,Mercedes-Benz,AMG GLS63 4matic Plus,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+39900,2023,Mercedes-Benz,GLS600 4matic Maybach,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,17,23.53,13,30.77,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+39901,2023,Mercedes-Benz,GLE580 4matic,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39902,2023,Mercedes-Benz,GLS580 4matic,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39903,2023,Lucid,Air G Touring XR AWD with 19 inch wheels,Large Cars,,,0,0,99,32,0,0,All-Wheel Drive,131,3.05,104,3.85,132,3.03,118,3.39,105,3.81,92,4.35,80,68
+39904,2023,Lucid,Air G Touring XR AWD with 20 inch wheels,Large Cars,,,0,0,99,32,0,0,All-Wheel Drive,121,3.31,96,4.17,122,3.28,109,3.67,97,4.12,85,4.71,73,62
+39905,2023,Lucid,Air G Touring XR AWD with 21 inch wheels,Large Cars,,,0,0,99,32,0,0,All-Wheel Drive,121,3.31,96,4.17,122,3.28,109,3.67,97,4.12,85,4.71,73,62
+39906,2023,Lucid,Air GT P AWD with 21 inch wheels,Large Cars,,,0,0,99,32,0,0,All-Wheel Drive,111,3.6,88,4.55,111,3.6,99,4.04,88,4.55,77,5.19,66,56
+39907,2023,Lucid,Air Pure AWD with 19 inch wheels,Large Cars,,,0,0,101,32,0,0,All-Wheel Drive,140,2.86,112,3.57,140,2.86,126,3.17,112,3.57,98,4.08,85,72
+39908,2023,Lucid,Air Pure AWD with 20 inch wheels,Large Cars,,,0,0,101,32,0,0,All-Wheel Drive,121,3.31,96,4.17,120,3.33,108,3.7,96,4.17,84,4.76,73,62
+39909,2023,Lucid,Air Touring AWD with 19 inch wheels,Large Cars,,,0,0,101,32,0,0,All-Wheel Drive,140,2.86,112,3.57,140,2.86,126,3.17,112,3.57,98,4.08,85,72
+39911,2023,Lucid,Air Touring AWD with 20 inch wheels,Large Cars,,,0,0,101,32,0,0,All-Wheel Drive,121,3.31,96,4.17,120,3.33,108,3.7,96,4.17,84,4.76,73,62
+39912,2023,Lucid,Air Touring AWD with 21 inch wheels,Large Cars,,,0,0,101,32,0,0,All-Wheel Drive,121,3.31,96,4.17,120,3.33,108,3.7,96,4.17,84,4.76,73,62
+39913,2023,Rivian,R1T (20 inch wheels),Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,All-Wheel Drive,64,6.25,51,7.84,60,6.67,54,7.41,48,8.33,42,9.52,36,30
+39914,2023,Rivian,R1T (21 inch wheels),Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,All-Wheel Drive,73,5.48,58,6.9,69,5.8,62,6.45,55,7.27,48,8.33,41,34
+39915,2023,Rivian,R1T (22 inch wheels),Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,All-Wheel Drive,68,5.88,54,7.41,63,6.35,56,7.14,49,8.16,43,9.3,37,31
+39916,2023,Rivian,R1S (20 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,64,6.25,51,7.84,60,6.67,54,7.41,48,8.33,42,9.52,36,30
+39917,2023,Rivian,R1S (21 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,71,5.63,56,7.14,66,6.06,59,6.78,52,7.69,45,8.89,39,33
+39918,2023,Rivian,R1S (22 inch wheels),Standard Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,68,5.88,54,7.41,63,6.35,56,7.14,49,8.16,43,9.3,37,31
+39919,2023,Mercedes-Benz,AMG GT 63 4matic Plus,Compact Cars,8.0,4.0,0,0,96,13,0,0,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39920,2023,Mercedes-Benz,AMG GT 63 S 4matic Plus,Compact Cars,8.0,4.0,0,0,96,13,0,0,All-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+39922,2023,Mercedes-Benz,AMG E63 S 4matic Plus,Midsize Cars,8.0,4.0,0,0,98,13,0,0,All-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39923,2023,Toyota,Crown AWD,Midsize Cars,4.0,2.4,0,0,98,13,0,0,All-Wheel Drive,30,13.33,24,16.67,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39924,2023,Toyota,Crown AWD,Midsize Cars,4.0,2.5,0,0,98,13,0,0,All-Wheel Drive,41,9.76,32,12.5,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39925,2023,Mercedes-Benz,AMG E63 S 4matic Plus (SW),Midsize Station Wagons,8.0,4.0,0,0,98,35,0,0,All-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39926,2023,Ford,Escape FWD,Small Sport Utility Vehicle 2WD,3.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,30,13.33,24,16.67,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+39927,2023,Ford,Escape FWD HEV,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,39,10.26,31,12.9,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39928,2023,Fiat,500X AWD,Small Sport Utility Vehicle 4WD,4.0,1.3,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39929,2023,Ford,F-150 Lightning 4WD Extended Range,Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,All-Wheel Drive,70,5.71,56,7.14,63,6.35,56,7.14,49,8.16,43,9.3,37,31
+39930,2023,Ford,F-150 Lightning Platinum 4WD,Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,All-Wheel Drive,66,6.06,52,7.69,60,6.67,54,7.41,48,8.33,42,9.52,36,30
+39931,2023,Ford,F-150 Lightning 4WD,Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,All-Wheel Drive,68,5.88,54,7.41,61,6.56,54,7.41,48,8.33,42,9.52,36,30
+39938,2023,Ford,Mustang,Subcompact Cars,4.0,2.3,83,13,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39939,2023,Ford,Mustang,Subcompact Cars,8.0,5.0,83,13,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39940,2023,Ford,Mustang,Subcompact Cars,4.0,2.3,83,13,0,0,0,0,Rear-Wheel Drive,25,16.0,20,20.0,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39941,2023,Ford,Mustang Mach 1,Subcompact Cars,8.0,5.0,83,14,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39942,2023,Ford,Mustang Mach 1,Subcompact Cars,8.0,5.0,83,14,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39944,2023,Ford,Mustang,Subcompact Cars,8.0,5.0,83,13,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39945,2023,Ford,Mustang Convertible,Subcompact Cars,8.0,5.0,80,11,0,0,0,0,Rear-Wheel Drive,18,22.22,14,28.57,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+39946,2023,Ford,Mustang HO Coupe,Subcompact Cars,4.0,2.3,85,12,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39947,2023,Ford,Mustang,Subcompact Cars,4.0,2.3,83,13,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39948,2023,Ford,Mustang Convertible,Subcompact Cars,4.0,2.3,80,11,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39949,2023,Ford,Mustang Convertible,Subcompact Cars,4.0,2.3,80,11,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39950,2023,Ford,Mustang Convertible,Subcompact Cars,4.0,2.3,80,11,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39951,2023,Ford,Mustang HO Coupe,Subcompact Cars,4.0,2.3,85,12,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39952,2023,Ford,Mustang HO Convertible,Subcompact Cars,4.0,2.3,85,12,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39953,2023,Ford,Mustang HO Convertible,Subcompact Cars,4.0,2.3,85,12,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39955,2023,Lexus,RC F,Subcompact Cars,8.0,5.0,79,10,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39956,2023,Nissan,GT-R,Subcompact Cars,6.0,3.8,79,9,0,0,0,0,All-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+39957,2023,Mazda,3 4-Door 2WD,Compact Cars,4.0,2.0,0,0,93,13,0,0,Front-Wheel Drive,31,12.9,24,16.67,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39958,2023,Mazda,3 4-Door 2WD,Compact Cars,4.0,2.5,0,0,93,13,0,0,Front-Wheel Drive,31,12.9,24,16.67,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39959,2023,Mazda,3 4-Door 4WD,Compact Cars,4.0,2.5,0,0,93,13,0,0,4-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39960,2023,Mazda,3 4-Door 4WD,Compact Cars,4.0,2.5,0,0,93,13,0,0,4-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39961,2023,Nissan,Versa,Compact Cars,4.0,1.6,0,0,89,15,0,0,Front-Wheel Drive,35,11.43,28,14.29,40,10.0,36,11.11,32,12.5,28,14.29,24,20
+39962,2023,Nissan,Versa,Compact Cars,4.0,1.6,0,0,89,15,0,0,Front-Wheel Drive,30,13.33,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+39963,2023,Honda,Accord Hybrid Sport/Touring,Midsize Cars,4.0,2.0,0,0,103,17,0,0,Front-Wheel Drive,44,9.09,35,11.43,41,9.76,36,11.11,32,12.5,28,14.29,24,20
+39964,2023,Toyota,Prius,Midsize Cars,4.0,2.0,0,0,0,0,91,24,Front-Wheel Drive,57,7.02,45,8.89,56,7.14,50,8.0,44,9.09,38,10.53,33,28
+39966,2023,Toyota,Prius AWD,Midsize Cars,4.0,2.0,0,0,0,0,91,24,Part-time 4-Wheel Drive,54,7.41,43,9.3,54,7.41,48,8.33,42,9.52,36,11.11,31,26
+39967,2023,Toyota,Prius AWD XLE/LTD,Midsize Cars,4.0,2.0,0,0,0,0,91,24,Part-time 4-Wheel Drive,49,8.16,39,10.26,50,8.0,45,8.89,40,10.0,35,11.43,30,25
+39968,2023,Toyota,Prius XLE/LTD,Midsize Cars,4.0,2.0,0,0,0,0,91,24,Front-Wheel Drive,52,7.69,41,9.76,52,7.69,46,8.7,40,10.0,35,11.43,30,25
+39969,2023,Honda,Accord,Large Cars,4.0,1.5,0,0,106,17,0,0,Front-Wheel Drive,32,12.5,25,16.0,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39970,2023,Honda,Accord Hybrid,Large Cars,4.0,2.0,0,0,106,17,0,0,Front-Wheel Drive,48,8.33,38,10.53,44,9.09,39,10.26,34,11.76,29,13.79,25,21
+39971,2023,Ford,Maverick FWD,Small Pickup Trucks 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39972,2023,Ford,Maverick HEV FWD,Small Pickup Trucks 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,37,10.81,29,13.79,33,12.12,29,13.79,25,16.0,22,18.18,19,16
+39973,2023,Ford,Maverick AWD,Small Pickup Trucks 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39974,2023,Ford,Maverick Tremor AWD,Small Pickup Trucks 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+39975,2023,Ram,1500 HFE 2WD,Standard Pickup Trucks 2WD,6.0,3.6,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39977,2023,Ford,Transit Connect Van FWD,Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39978,2023,Ford,Transit Connect Wagon LWB FWD,Special Purpose Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39979,2023,Chrysler,Pacifica,Minivan - 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39980,2023,Chrysler,Voyager,Minivan - 2WD,6.0,3.6,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39981,2023,Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Front-Wheel Drive,22,18.18,17,23.53,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+39982,2023,Hyundai,Tucson FWD,Small Sport Utility Vehicle 2WD,4.0,2.5,0,0,0,0,0,0,Front-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39983,2023,Lincoln,Nautilus FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39984,2023,Lincoln,Nautilus FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39985,2023,Lincoln,Corsair FWD,Small Sport Utility Vehicle 2WD,4.0,2.0,0,0,0,0,0,0,Front-Wheel Drive,25,16.0,20,20.0,30,13.33,27,14.81,24,16.67,21,19.05,18,15
+39986,2023,Nissan,Rogue FWD,Small Sport Utility Vehicle 2WD,3.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,33,12.12,26,15.38,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+39988,2023,Nissan,Rogue FWD SL/Platinum,Small Sport Utility Vehicle 2WD,3.0,1.5,0,0,0,0,0,0,Front-Wheel Drive,32,12.5,25,16.0,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39989,2023,Dodge,Hornet AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+39990,2023,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39991,2023,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39992,2023,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,6.0,2.7,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+39993,2023,Ford,Bronco Sport 4WD,Small Sport Utility Vehicle 4WD,3.0,1.5,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+39994,2023,Ford,Bronco Sport 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,23,17.39,18,22.22,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+39995,2023,Ford,Escape AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,26,15.38,20,20.0,31,12.9,27,14.81,24,16.67,21,19.05,18,15
+39996,2023,Ford,Escape AWD,Small Sport Utility Vehicle 4WD,3.0,1.5,0,0,0,0,0,0,All-Wheel Drive,28,14.29,22,18.18,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+39997,2023,Ford,Escape AWD HEV,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,39,10.26,31,12.9,36,11.11,32,12.5,28,14.29,24,16.67,20,17
+39999,2023,Jeep,Compass 4WD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,32,12.5,28,14.29,24,16.67,21,19.05,18,15
+40000,2023,Lexus,RX 500h AWD,Small Sport Utility Vehicle 4WD,4.0,2.4,0,0,0,0,0,0,All-Wheel Drive,27,14.81,21,19.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+40001,2023,Lexus,RX 350h AWD,Small Sport Utility Vehicle 4WD,4.0,2.5,0,0,0,0,0,0,All-Wheel Drive,36,11.11,28,14.29,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+40002,2023,Lincoln,Nautilus AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40003,2023,Lincoln,Nautilus AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40004,2023,Lincoln,Nautilus AWD,Small Sport Utility Vehicle 4WD,6.0,2.7,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40005,2023,Lincoln,Corsair AWD,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+40006,2023,Nissan,Rogue AWD,Small Sport Utility Vehicle 4WD,3.0,1.5,0,0,0,0,0,0,All-Wheel Drive,31,12.9,24,16.67,35,11.43,31,12.9,27,14.81,23,17.39,20,17
+40007,2023,Nissan,Rogue AWD SL/Platinum,Small Sport Utility Vehicle 4WD,3.0,1.5,0,0,0,0,0,0,All-Wheel Drive,31,12.9,24,16.67,34,11.76,30,13.33,26,15.38,22,18.18,19,16
+40008,2023,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,4.0,2.3,0,0,0,0,0,0,Rear-Wheel Drive,24,16.67,19,21.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+40011,2023,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40012,2023,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,6.0,3.0,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40013,2023,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40014,2023,Ford,Explorer Platinum HEV RWD,Standard Sport Utility Vehicle 2WD,6.0,3.3,0,0,0,0,0,0,Rear-Wheel Drive,26,15.38,20,20.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40015,2023,Ford,Explorer HEV RWD,Standard Sport Utility Vehicle 2WD,6.0,3.3,0,0,0,0,0,0,Rear-Wheel Drive,27,14.81,21,19.05,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+40016,2023,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,4.0,2.3,0,0,0,0,0,0,Rear-Wheel Drive,23,17.39,18,22.22,28,14.29,25,16.0,22,18.18,19,21.05,16,13
+40017,2023,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40018,2023,Lincoln,Navigator 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40019,2023,Lincoln,Navigator 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,0,0,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40020,2023,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,23,17.39,18,22.22,27,14.81,24,16.67,21,19.05,18,22.22,15,12
+40022,2023,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40023,2023,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40024,2023,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+40025,2023,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40026,2023,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+40027,2023,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+40028,2023,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40029,2023,Ford,Explorer Timberline AWD,Standard Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40030,2023,Ford,Explorer Platinum HEV AWD,Standard Sport Utility Vehicle 4WD,6.0,3.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,23,17.39,18,22.22,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40031,2023,Ford,Explorer HEV AWD,Standard Sport Utility Vehicle 4WD,6.0,3.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,25,16.0,20,20.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40033,2023,Ford,Explorer Timberline AWD,Standard Sport Utility Vehicle 4WD,4.0,2.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,21,19.05,16,25.0,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+40034,2023,Ford,Explorer FFV AWD,Standard Sport Utility Vehicle 4WD,6.0,3.3,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40035,2023,Honda,Pilot AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40036,2023,Honda,Pilot AWD Touring/Elite/Black,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,21,19.05,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40037,2023,Honda,Pilot AWD TrailSport,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,All-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40038,2023,Lincoln,Navigator 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,18,22.22,14,28.57,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+40039,2023,Lincoln,Navigator 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,0,0,0,0,0,0,Part-time 4-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40040,2023,Nissan,Armada 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.6,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+40041,2023,Nissan,Armada 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.6,0,0,0,0,0,0,4-Wheel Drive,15,26.67,12,33.33,18,22.22,16,25.0,14,28.57,12,33.33,10,8
+40042,2023,Mercedes-Benz,AMG SL63 4matic Plus,Minicompact Cars,8.0,4.0,76,6,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+40044,2023,Mercedes-Benz,AMG SL55 4matic Plus,Minicompact Cars,8.0,4.0,76,6,0,0,0,0,All-Wheel Drive,16,25.0,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40045,2023,Mercedes-Benz,AMG C63 S Convertible,Subcompact Cars,8.0,4.0,81,9,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40046,2023,Mercedes-Benz,AMG C63 S Coupe,Subcompact Cars,8.0,4.0,79,11,0,0,0,0,Rear-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40047,2023,Nissan,Sentra,Midsize Cars,4.0,2.0,0,0,96,14,0,0,Front-Wheel Drive,33,12.12,26,15.38,39,10.26,35,11.43,31,12.9,27,14.81,23,19
+40048,2023,Nissan,Sentra SR,Midsize Cars,4.0,2.0,0,0,96,14,0,0,Front-Wheel Drive,32,12.5,25,16.0,37,10.81,33,12.12,29,13.79,25,16.0,21,17
+40049,2023,Nissan,Frontier 2WD,Standard Pickup Trucks 2WD,6.0,3.8,0,0,0,0,0,0,Rear-Wheel Drive,21,19.05,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40050,2023,Nissan,Frontier 4WD,Standard Pickup Trucks 4WD,6.0,3.8,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40051,2023,Nissan,Frontier 4WD PRO4X,Standard Pickup Trucks 4WD,6.0,3.8,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+40052,2023,Audi,Q3,Small Sport Utility Vehicle 4WD,4.0,2.0,0,0,0,0,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+40053,2023,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40055,2023,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40056,2023,Lincoln,Aviator AWD,Standard Sport Utility Vehicle 4WD,6.0,3.0,0,0,0,0,0,0,Part-time 4-Wheel Drive,19,21.05,15,26.67,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40057,2023,Mercedes-Benz,AMG G63,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,4-Wheel Drive,14,28.57,11,36.36,16,25.0,14,28.57,12,33.33,10,40.0,8,6
+40058,2023,Mercedes-Benz,AMG G 63 4x4 Squared,Standard Sport Utility Vehicle 4WD,8.0,4.0,0,0,0,0,0,0,4-Wheel Drive,11,36.36,8,50.0,12,33.33,10,40.0,8,50.0,7,57.14,6,5
+40075,2023,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40077,2023,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,21,19.05,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40128,2023,Honda,Civic 4Dr,Midsize Cars,4.0,2.0,0,0,99,15,0,0,Front-Wheel Drive,35,11.43,28,14.29,40,10.0,36,11.11,32,12.5,28,14.29,24,20
+40129,2023,Lexus,LS 500h,Midsize Cars,6.0,3.5,0,0,99,12,0,0,Rear-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+40130,2023,Lexus,LS 500h AWD,Midsize Cars,6.0,3.5,0,0,99,12,0,0,All-Wheel Drive,25,16.0,20,20.0,29,13.79,26,15.38,23,17.39,20,20.0,17,14
+40131,2023,Honda,Civic 5Dr,Large Cars,4.0,2.0,0,0,0,0,99,24,Front-Wheel Drive,33,12.12,26,15.38,38,10.53,34,11.76,30,13.33,26,15.38,22,18
+40133,2023,Jeep,Grand Cherokee 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.6,0,0,0,0,0,0,Rear-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40134,2023,Jeep,Grand Cherokee 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.6,0,0,0,0,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40135,2023,Ford,Mustang Mach-E AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,93,4.3,74,5.41,86,4.65,77,5.19,68,5.88,59,6.78,51,43
+40136,2023,Ford,Mustang Mach-E AWD Extended,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,92,4.35,73,5.48,85,4.71,76,5.26,67,5.97,58,6.9,50,42
+40137,2023,Ford,MUSTANG MACH-E CAL RT 1 ER AWD,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,98,4.08,78,5.13,91,4.4,81,4.94,72,5.56,63,6.35,54,45
+40138,2023,Ford,Mustang Mach-E GT,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,84,4.76,67,5.97,77,5.19,69,5.8,61,6.56,53,7.55,46,39
+40139,2023,Ford,Mustang Mach-E GT Performance,Small Sport Utility Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,82,4.88,65,6.15,77,5.19,69,5.8,61,6.56,53,7.55,46,39
+40140,2023,Ford,Mustang Mach-E RWD,Small Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Rear-Wheel Drive,103,3.88,82,4.88,96,4.17,86,4.65,76,5.26,66,6.06,57,48
+40141,2023,Ford,Mustang Mach-E RWD Extended,Small Sport Utility Vehicle 2WD,,,0,0,0,0,0,0,Rear-Wheel Drive,99,4.04,79,5.06,92,4.35,82,4.88,72,5.56,63,6.35,54,45
+40142,2023,Lordstown,Endurance,Standard Pickup Trucks 4WD,,,0,0,0,0,0,0,4-Wheel Drive,69,5.8,55,7.27,71,5.63,63,6.35,56,7.14,49,8.16,42,35
+40144,2023,Vinfast,VF 8 Eco,Special Purpose Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,87,4.6,69,5.8,85,4.71,76,5.26,67,5.97,58,6.9,50,42
+40145,2023,Vinfast,VF 8 Plus,Special Purpose Vehicle 4WD,,,0,0,0,0,0,0,All-Wheel Drive,80,5.0,64,6.25,78,5.13,70,5.71,62,6.45,54,7.41,46,39
+40180,2023,Porsche,911 Carrera T,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,25,16.0,22,18.18,19,21.05,16,25.0,13,11
+40181,2023,Porsche,911 Carrera T,Minicompact Cars,6.0,3.0,70,5,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,24,16.67,21,19.05,18,22.22,15,26.67,13,11
+40182,2023,Mercedes-Benz,AMG C43 4matic,Compact Cars,4.0,2.0,0,0,93,12,0,0,All-Wheel Drive,22,18.18,17,23.53,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40183,2023,Cadillac,CT5 V AWD,Midsize Cars,6.0,3.0,0,0,99,11,0,0,All-Wheel Drive,21,19.05,16,25.0,26,15.38,23,17.39,20,20.0,17,23.53,14,11
+40184,2023,Dodge,Challenger SRT,Midsize Cars,8.0,6.2,94,16,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40185,2023,Dodge,Challenger SRT Widebody,Midsize Cars,8.0,6.2,94,16,0,0,0,0,Rear-Wheel Drive,16,25.0,12,33.33,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40186,2023,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40188,2023,GMC,Canyon 2WD,Small Pickup Trucks 2WD,4.0,2.7,0,0,0,0,0,0,Rear-Wheel Drive,20,20.0,16,25.0,23,17.39,20,20.0,17,23.53,14,28.57,12,10
+40189,2023,Chevrolet,Colorado Mud Terrain Tires 4WD,Small Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,19,21.05,17,23.53,15,26.67,13,30.77,11,9
+40190,2023,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40191,2023,GMC,Canyon 4WD,Small Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,19,21.05,15,26.67,21,19.05,18,22.22,16,25.0,14,28.57,12,10
+40192,2023,GMC,Canyon Mud Terrain Tires 4WD,Small Pickup Trucks 4WD,4.0,2.7,0,0,0,0,0,0,4-Wheel Drive,18,22.22,14,28.57,20,20.0,18,22.22,16,25.0,14,28.57,12,10
+40193,2023,Ram,1500 2WD,Standard Pickup Trucks 2WD,8.0,5.7,0,0,0,0,0,0,Rear-Wheel Drive,17,23.53,13,30.77,22,18.18,19,21.05,16,25.0,14,28.57,12,10
+40194,2023,Ram,1500 4WD,Standard Pickup Trucks 4WD,8.0,5.7,0,0,0,0,0,0,4-Wheel Drive,17,23.53,13,30.77,21,19.05,18,22.22,16,25.0,14,28.57,12,10
